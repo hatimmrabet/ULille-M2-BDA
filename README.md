@@ -52,3 +52,6 @@ ainsi qu'il follow tous les utilisateur qui ont deja repondu à son message. Les
 
 ### Question 14
 
+1 console, 500 utilisateurs, max TPS 18.
+2 consoles, 500 utilisateurs chacune, max TPS 25.
+6 consoles, 500 utilisateurs chacune, max TPS 63, total queries 1443, total time 352s.

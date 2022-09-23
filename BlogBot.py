@@ -15,7 +15,7 @@ global users
 
 def get_random_user():
     global users
-    return users[random.randint(0, len(users))]
+    return random.choice(users)
 
 def get_users_from_file():
     with open("users") as f:
@@ -31,7 +31,7 @@ def main():
     users = get_users_from_file()
     messages = get_messages_from_file()
     # do it 500 times
-    for i in range(0, 5):
+    for i in range(0, 100):
         user = get_random_user()
         # publier un message avec un user aleatoire
         msg_id = mb.publish_post(user.name, user.password, random.choice(messages))
@@ -40,19 +40,21 @@ def main():
         # repondre au message avec un autre user aleatoire
         for _ in range(random.randint(0, 10)):
             user2 = get_random_user()
-            mb.publish_post(user2.name, user2.password, random.choice(messages), msg_id)
-            print("->User", user2.name, "is replying to", user.name, "message:", msg_id)
+            msg2_id = mb.publish_post(user2.name, user2.password, random.choice(messages), msg_id)
+            print("->User", user2.name, "is replying to", user.name, "message:", msg2_id)
             # 50% de chance de follow le user qui a posté le message
-            if(random.randint(0, 1) == 1):
-                mb.follow(user2.name, user2.password, msg.user_id)
+            if(random.randint(0, 1) == 1 and user.name != user2.name):
                 print("-->User", user2.name, "is following", user.name)
+                mb.follow(user2.name, user2.password, msg.user_id)
+
         # get all messages
         feed_messages = mb.get_messages()
+
         for msg in feed_messages:
             # follow the user who replied to my message
-            if(msg.replies_to == msg_id):
+            if(msg.replies_to == msg_id and user.name != msg.user_name):
+                print("==>User", user.name, "is following", msg.user_name)
                 mb.follow(user.name, user.password, msg.user_id)
-                print("-->User", user.name, "is following", msg.user_name)
 
     print("Done")
     print("Total time:", mb.acc_time)
