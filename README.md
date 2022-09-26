@@ -4,6 +4,7 @@
 
 - ubuntu: ubuntu@172.28.100.16 (password: 123456)
 - hatimmrabet: hatimmrabet@172.28.100.16 (password: 123456)
+- cha: cha@172.28.100.16 
 
 ### Question 7
 
@@ -53,8 +54,13 @@ ainsi qu'il follow tous les utilisateur qui ont deja repondu à son message. Les
 ### Question 14
 
 1 process, 500 utilisateurs, max TPS 18.
+
 2 process, 500 utilisateurs chacune, max TPS 25.
+
 6 process, 500 utilisateurs chacune, max TPS 63, total queries 1443, total time 352s.
+
 16 process, 100 utilisateurs chacune, max TPS 111.
+
 24 process, 100 utilisateurs chacune, max TPS 126.
+
 32 process, 100 utilisateurs chacune, max TPS 168.
