@@ -193,4 +193,34 @@ On a le resultat suivant. Qui est le resultat de l'execution du script python, e
 
 # Un intergiciel et Redis pour une petit application web
 
+## La création de compte
 
+## Question 1:
+
+1- le code se trouve dans le fichier [redis_connect](redis_connect.py), et on a utiliser l'ip_redis qu'on a fait dans les exercices precedants.
+
+Pour ne pas l’exposer à l’extérieur, on modifie cette ligne dans le fichier `10-rewrite.conf`:
+
+    url.rewrite-once = ( "redis_connect.py" => "/." )
+
+2- Tout le code de la creation d'un compte se trouve dans le fichier [create.py](create.py)
+
+on a testé avec la commade suivante:
+
+    curl -X POST -d 'username=tester&password=testing' 172.28.100.156/create
+
+## Connexion au compte
+
+1- url.rewrite-once = ( "connect.py" => "/connect" )
+
+2- Tout le code de la connexion d'un compte se trouve dans le fichier [connect.py](connect.py)
+
+on a testé avec la commance suivante:
+
+    curl -X POST -d 'username=tester&password=testing' 172.28.100.156/connect
+
+## Avoir des informations sur le compte
+
+1- url.rewrite-once = ( "/ => "/info.py" )
+
+2- le code se trouve dans le fichier [info.py](info.py)
