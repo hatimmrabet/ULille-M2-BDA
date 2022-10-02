@@ -18,7 +18,11 @@ Puis, on modifie le fichier `/etc/postgresql/14/main/pg_hba.conf` pour permettre
 
 ### Question 7
 
-Creation du compte cha sur postgres, on se connecte avec ubuntu, apres, on se connecte avec postgre avec la commande `sudo su postgres` :
+Creation du compte cha sur postgres, avec la commande :
+
+    createuser --interactive
+    
+on se connecte avec ubuntu, apres, on se connecte avec postgre avec la commande `sudo su postgres` :
 
 ```bash
 psql
