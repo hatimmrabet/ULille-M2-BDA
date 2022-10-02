@@ -6,6 +6,16 @@
 - hatimmrabet: hatimmrabet@172.28.100.16 (password: 123456)
 - cha: cha@172.28.100.16 
 
+### Question 6
+
+Pour autoriser les connections à distance, on modife le fichier `/etc/postgresql/14/main/postgresql.conf`, on modifiant cette ligne :
+    
+    listen_addresses = '*'
+
+Puis, on modifie le fichier `/etc/postgresql/14/main/pg_hba.conf` pour permettre les connections avec mot de passe, en ajoutant cette ligne:
+    
+    host    all             all             0.0.0.0/0               md5
+
 ### Question 7
 
 Creation du compte cha sur postgres, on se connecte avec ubuntu, apres, on se connecte avec postgre avec la commande `sudo su postgres` :
