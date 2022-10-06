@@ -203,24 +203,172 @@ Pour ne pas l’exposer à l’extérieur, on modifie cette ligne dans le fichie
 
     url.rewrite-once = ( "redis_connect.py" => "/." )
 
-2- Tout le code de la creation d'un compte se trouve dans le fichier [create.py](create.py)
+2- Tout le code de la creation d'un compte se trouve dans le fichier [create.py](create.py).
 
-on a testé avec la commade suivante:
+on a testé avec la commade suivante, pour la creation d'un utilisateur Hatimo:
 
-    curl -X POST -d 'username=tester&password=testing' 172.28.100.156/create
+```sh
+$ curl -v -X POST -d 'username=hatimo&password=testingg' 172.28.100.156/create
+
+Note: Unnecessary use of -X or --request, POST is already inferred.
+*   Trying 172.28.100.156:80...
+* Connected to 172.28.100.156 (172.28.100.156) port 80 (#0)
+> POST /create HTTP/1.1
+> Host: 172.28.100.156
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Length: 33
+> Content-Type: application/x-www-form-urlencoded
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 201 Created
+< Content-Length: 25
+< Date: Thu, 06 Oct 2022 18:14:27 GMT
+< Server: lighttpd/1.4.63
+< 
+User created succesfully
+* Connection #0 to host 172.28.100.156 left intact
+```
+Et on recoit le code 201, qui signifie que la creation a été effectué avec succes.
 
 ## Connexion au compte
 
-1- url.rewrite-once = ( "connect.py" => "/connect" )
+1- le fichier de routes contient:
+```sh
+url.rewrite-once = (
+        "^/connect" => "/connect.py",
+        "^/create" => "/create.py",
+#       "redis_connect.py" => "/."      
+)
+```
 
 2- Tout le code de la connexion d'un compte se trouve dans le fichier [connect.py](connect.py)
 
-on a testé avec la commance suivante:
+on a testé avec la commance suivante, et on a eu la reponse suivante pour un cas normale:
 
-    curl -X POST -d 'username=tester&password=testing' 172.28.100.156/connect
+```sh
+$ curl -v -X POST -d 'username=hatimo&password=testingg' 172.28.100.156/connect
+
+Note: Unnecessary use of -X or --request, POST is already inferred.
+*   Trying 172.28.100.156:80...
+* Connected to 172.28.100.156 (172.28.100.156) port 80 (#0)
+> POST /connect HTTP/1.1
+> Host: 172.28.100.156
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Length: 33
+> Content-Type: application/x-www-form-urlencoded
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Set-Cookie: sessionId=1af8139a-634d-4a8f-996f-091c7265fddf; Max-Age=600
+< Content-Length: 27
+< Date: Thu, 06 Oct 2022 18:19:40 GMT
+< Server: lighttpd/1.4.63
+< 
+User connected succesfully
+* Connection #0 to host 172.28.100.156 left intact
+```
+
+et si on a un cas d'erreur, on a la reponse suivante (code 401, mot de passe incorrect):
+
+
+```sh
+$ curl -v -X POST -d 'username=hatimo&password=test' 172.28.100.156/connect
+
+Note: Unnecessary use of -X or --request, POST is already inferred.
+*   Trying 172.28.100.156:80...
+* Connected to 172.28.100.156 (172.28.100.156) port 80 (#0)
+> POST /connect HTTP/1.1
+> Host: 172.28.100.156
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Length: 29
+> Content-Type: application/x-www-form-urlencoded
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 401 Unauthorized
+< Content-Length: 15
+< Date: Thu, 06 Oct 2022 18:53:48 GMT
+< Server: lighttpd/1.4.63
+< 
+Wrong password
+* Connection #0 to host 172.28.100.156 left intact
+```
+
 
 ## Avoir des informations sur le compte
 
-1- url.rewrite-once = ( "/ => "/info.py" )
+1- le fichier contient les routes suivantes:
 
-2- le code se trouve dans le fichier [info.py](info.py)
+```sh
+ url.rewrite-once = (
+        "^/env" => "/env.py",
+        "^/connect" => "/connect.py",
+        "^/create" => "/create.py",
+        "^/" => "/info.py",
+)
+```
+
+2- le code se trouve dans le fichier [info.py](info.py), pour tester:
+
+- si on a pas de cookie: Ona la reponse 400 avec le message (No sessionId cookie)
+
+```sh
+$ curl -v  172.28.100.156/
+
+*   Trying 172.28.100.156:80...
+* Connected to 172.28.100.156 (172.28.100.156) port 80 (#0)
+> GET / HTTP/1.1
+> Host: 172.28.100.156
+> User-Agent: curl/7.81.0
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 400 Bad Request
+< Content-Length: 20
+< Date: Thu, 06 Oct 2022 19:00:09 GMT
+< Server: lighttpd/1.4.63
+< 
+No sessionId cookie
+* Connection #0 to host 172.28.100.156 left intact
+```
+- si on a un cookie, on a la reponse 200, et les informations sous format json.
+
+```sh
+$ curl -v  172.28.100.156/
+
+*   Trying 172.28.100.156:80...
+* Connected to 172.28.100.156 (172.28.100.156) port 80 (#0)
+> GET / HTTP/1.1
+> Host: 172.28.100.156
+> User-Agent: curl/7.81.0
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Content-Type: application/json
+< Accept-Ranges: bytes
+< Content-Length: 103
+< Date: Thu, 06 Oct 2022 19:25:24 GMT
+< Server: lighttpd/1.4.63
+< 
+{"username": "hatimo", "creationDate": "06-10-2022 18:14:27", "lastConnection": "06-10-2022 19:19:43"}
+* Connection #0 to host 172.28.100.156 left intact
+```
+
+## API d’upload et de download de fichier
+
+le fichier devient:
+    
+```sh
+url.rewrite-once = (
+    "^/test" => "/create.py",
+    "^/env" => "/env.py",
+    "^/connect" => "/connect.py",
+    "^/create" => "/create.py",
+    "^/files/\*" => "gestion_fichier.py",
+    "^/" => "/info.py",
+    "^/redis_connect.py" => "/."    
+)
+```

@@ -1,21 +1,24 @@
 import redis_connect
-import datetime as dt
-import hashlib as hl
-import requests as req
+import os, json
 
-
-def info():
-    print(req.get_cookie("sessionId"))
-    if(req.get_cookie("sessionId") is None):
-        return "No sessionId cookie"
-    r5 = redis_connect.connection_redis(5)
-    if(not r5.exists(req.get_cookie("sessionId"))):
-        return "sessionId cookie is invalid"
-    tmptoken = r5.get(req.get_cookie("sessionId"))
-    r5.expire(tmptoken, 60*10)
-    req.headers["content-type"] = "application/json charset=utf-8"
-    r2 = redis_connect.connection_redis(2)
-    return r2.hgetall(r5.get(tmptoken))
-
-info()
-    
+cookie = os.environ.get("HTTP_COOKIE")
+if(cookie is None):
+    print("HTTP/1.1 400 Bad Request\n")
+    print("No sessionId cookie")
+    exit()
+r5 = redis_connect.connection_redis(5)
+if(not r5.exists(cookie)):
+    print("HTTP/1.1 400 Bad Request\n")
+    print( "sessionId cookie is invalid")
+tmptoken = r5.get(cookie)
+r5.expire(tmptoken, 60*10)
+r2 = redis_connect.connection_redis(2)
+print("HTTP/1.1 200 OK")
+print("Content-Type: application/json\n")
+print(json.dumps(
+    {
+        "username": r2.hget(tmptoken, "username").decode(), 
+        "creationDate": r2.hget(tmptoken, "creationDate").decode(), 
+        "lastConnection": r2.hget(tmptoken, "lastConnection").decode()
+    }
+))
