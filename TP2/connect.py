@@ -38,6 +38,5 @@ r5.set(tmpuuid, tokenid)
 r5.expire(tmpuuid, 60*10)
 r2.hset(tokenid, "lastConnection", dt.datetime.now().strftime('%d-%m-%Y %H:%M:%S'))
 print("HTTP/1.1 200 OK")
-os.environ["HTTP_COOKIE"] = tmpuuid
 print("Set-Cookie: sessionId="+tmpuuid+"; Max-Age=600\n")
 print("User connected succesfully")

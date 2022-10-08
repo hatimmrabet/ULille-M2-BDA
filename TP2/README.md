@@ -336,7 +336,7 @@ No sessionId cookie
 - si on a un cookie, on a la reponse 200, et les informations sous format json.
 
 ```sh
-$ curl -v  172.28.100.156/
+$ curl -v --cookie "HTTP_COOKIE=a1af8139a-634d-4a8f-996f-091c7265fddf" 172.28.100.156/
 
 *   Trying 172.28.100.156:80...
 * Connected to 172.28.100.156 (172.28.100.156) port 80 (#0)
@@ -367,7 +367,7 @@ url.rewrite-once = (
     "^/env" => "/env.py",
     "^/connect" => "/connect.py",
     "^/create" => "/create.py",
-    "^/files/\*" => "gestion_fichier.py",
+    "^/files/" => "gestion_fichier.py",
     "^/" => "/info.py",
     "^/redis_connect.py" => "/."    
 )
