@@ -1,0 +1,7790 @@
+[
+  {
+    "nom": "Abancourt",
+    "code": "59001",
+    "codeDepartement": "59",
+    "siren": "215900010",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59268"
+    ],
+    "population": 469
+  },
+  {
+    "nom": "Abscon",
+    "code": "59002",
+    "codeDepartement": "59",
+    "siren": "215900028",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59215"
+    ],
+    "population": 4309
+  },
+  {
+    "nom": "Aibes",
+    "code": "59003",
+    "codeDepartement": "59",
+    "siren": "215900036",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59149"
+    ],
+    "population": 372
+  },
+  {
+    "nom": "Aix-en-Pévèle",
+    "code": "59004",
+    "codeDepartement": "59",
+    "siren": "215900044",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 1320
+  },
+  {
+    "nom": "Allennes-les-Marais",
+    "code": "59005",
+    "codeDepartement": "59",
+    "siren": "215900051",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59251"
+    ],
+    "population": 3456
+  },
+  {
+    "nom": "Amfroipret",
+    "code": "59006",
+    "codeDepartement": "59",
+    "siren": "215900069",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 216
+  },
+  {
+    "nom": "Anhiers",
+    "code": "59007",
+    "codeDepartement": "59",
+    "siren": "215900077",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59194"
+    ],
+    "population": 890
+  },
+  {
+    "nom": "Aniche",
+    "code": "59008",
+    "codeDepartement": "59",
+    "siren": "215900085",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59580"
+    ],
+    "population": 10085
+  },
+  {
+    "nom": "Villeneuve-d'Ascq",
+    "code": "59009",
+    "codeDepartement": "59",
+    "siren": "215900093",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59650",
+      "59491",
+      "59493"
+    ],
+    "population": 61957
+  },
+  {
+    "nom": "Anneux",
+    "code": "59010",
+    "codeDepartement": "59",
+    "siren": "215900101",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 259
+  },
+  {
+    "nom": "Annœullin",
+    "code": "59011",
+    "codeDepartement": "59",
+    "siren": "215900119",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59112"
+    ],
+    "population": 10471
+  },
+  {
+    "nom": "Anor",
+    "code": "59012",
+    "codeDepartement": "59",
+    "siren": "215900127",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59186"
+    ],
+    "population": 3221
+  },
+  {
+    "nom": "Anstaing",
+    "code": "59013",
+    "codeDepartement": "59",
+    "siren": "215900135",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59152"
+    ],
+    "population": 1517
+  },
+  {
+    "nom": "Anzin",
+    "code": "59014",
+    "codeDepartement": "59",
+    "siren": "215900143",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59410"
+    ],
+    "population": 13329
+  },
+  {
+    "nom": "Arleux",
+    "code": "59015",
+    "codeDepartement": "59",
+    "siren": "215900150",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59151"
+    ],
+    "population": 3177
+  },
+  {
+    "nom": "Armbouts-Cappel",
+    "code": "59016",
+    "codeDepartement": "59",
+    "siren": "215900168",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 2200
+  },
+  {
+    "nom": "Armentières",
+    "code": "59017",
+    "codeDepartement": "59",
+    "siren": "215900176",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59280"
+    ],
+    "population": 24909
+  },
+  {
+    "nom": "Arnèke",
+    "code": "59018",
+    "codeDepartement": "59",
+    "siren": "215900184",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59285"
+    ],
+    "population": 1570
+  },
+  {
+    "nom": "Artres",
+    "code": "59019",
+    "codeDepartement": "59",
+    "siren": "215900192",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59269"
+    ],
+    "population": 1061
+  },
+  {
+    "nom": "Assevent",
+    "code": "59021",
+    "codeDepartement": "59",
+    "siren": "215900218",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 1815
+  },
+  {
+    "nom": "Attiches",
+    "code": "59022",
+    "codeDepartement": "59",
+    "siren": "215900226",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59551"
+    ],
+    "population": 2261
+  },
+  {
+    "nom": "Aubencheul-au-Bac",
+    "code": "59023",
+    "codeDepartement": "59",
+    "siren": "215900234",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59265"
+    ],
+    "population": 546
+  },
+  {
+    "nom": "Auberchicourt",
+    "code": "59024",
+    "codeDepartement": "59",
+    "siren": "215900242",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59165"
+    ],
+    "population": 4551
+  },
+  {
+    "nom": "Aubers",
+    "code": "59025",
+    "codeDepartement": "59",
+    "siren": "215900259",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59249"
+    ],
+    "population": 1674
+  },
+  {
+    "nom": "Aubigny-au-Bac",
+    "code": "59026",
+    "codeDepartement": "59",
+    "siren": "215900267",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59265"
+    ],
+    "population": 1166
+  },
+  {
+    "nom": "Aubry-du-Hainaut",
+    "code": "59027",
+    "codeDepartement": "59",
+    "siren": "215900275",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59494"
+    ],
+    "population": 1705
+  },
+  {
+    "nom": "Auby",
+    "code": "59028",
+    "codeDepartement": "59",
+    "siren": "215900283",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59950"
+    ],
+    "population": 7239
+  },
+  {
+    "nom": "Auchy-lez-Orchies",
+    "code": "59029",
+    "codeDepartement": "59",
+    "siren": "215900291",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 1502
+  },
+  {
+    "nom": "Audignies",
+    "code": "59031",
+    "codeDepartement": "59",
+    "siren": "215900317",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 372
+  },
+  {
+    "nom": "Aulnoy-lez-Valenciennes",
+    "code": "59032",
+    "codeDepartement": "59",
+    "siren": "215900325",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59300"
+    ],
+    "population": 7224
+  },
+  {
+    "nom": "Aulnoye-Aymeries",
+    "code": "59033",
+    "codeDepartement": "59",
+    "siren": "215900333",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59620"
+    ],
+    "population": 8840
+  },
+  {
+    "nom": "Avelin",
+    "code": "59034",
+    "codeDepartement": "59",
+    "siren": "215900341",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59710"
+    ],
+    "population": 2641
+  },
+  {
+    "nom": "Avesnelles",
+    "code": "59035",
+    "codeDepartement": "59",
+    "siren": "215900358",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 2371
+  },
+  {
+    "nom": "Avesnes-sur-Helpe",
+    "code": "59036",
+    "codeDepartement": "59",
+    "siren": "215900366",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 4195
+  },
+  {
+    "nom": "Avesnes-les-Aubert",
+    "code": "59037",
+    "codeDepartement": "59",
+    "siren": "215900374",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59129"
+    ],
+    "population": 3630
+  },
+  {
+    "nom": "Avesnes-le-Sec",
+    "code": "59038",
+    "codeDepartement": "59",
+    "siren": "215900382",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59296"
+    ],
+    "population": 1449
+  },
+  {
+    "nom": "Awoingt",
+    "code": "59039",
+    "codeDepartement": "59",
+    "siren": "215900390",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 816
+  },
+  {
+    "nom": "Bachant",
+    "code": "59041",
+    "codeDepartement": "59",
+    "siren": "215900416",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59138"
+    ],
+    "population": 2291
+  },
+  {
+    "nom": "Bachy",
+    "code": "59042",
+    "codeDepartement": "59",
+    "siren": "215900424",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 1791
+  },
+  {
+    "nom": "Bailleul",
+    "code": "59043",
+    "codeDepartement": "59",
+    "siren": "215900432",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 15163
+  },
+  {
+    "nom": "Baisieux",
+    "code": "59044",
+    "codeDepartement": "59",
+    "siren": "215900440",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59780"
+    ],
+    "population": 4777
+  },
+  {
+    "nom": "Baives",
+    "code": "59045",
+    "codeDepartement": "59",
+    "siren": "215900457",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 167
+  },
+  {
+    "nom": "Bambecque",
+    "code": "59046",
+    "codeDepartement": "59",
+    "siren": "215900465",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 812
+  },
+  {
+    "nom": "Banteux",
+    "code": "59047",
+    "codeDepartement": "59",
+    "siren": "215900473",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59266"
+    ],
+    "population": 349
+  },
+  {
+    "nom": "Bantigny",
+    "code": "59048",
+    "codeDepartement": "59",
+    "siren": "215900481",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59554"
+    ],
+    "population": 523
+  },
+  {
+    "nom": "Bantouzelle",
+    "code": "59049",
+    "codeDepartement": "59",
+    "siren": "215900499",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59266"
+    ],
+    "population": 437
+  },
+  {
+    "nom": "Bas-Lieu",
+    "code": "59050",
+    "codeDepartement": "59",
+    "siren": "215900507",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 344
+  },
+  {
+    "nom": "La Bassée",
+    "code": "59051",
+    "codeDepartement": "59",
+    "siren": "215900515",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59480"
+    ],
+    "population": 6509
+  },
+  {
+    "nom": "Bauvin",
+    "code": "59052",
+    "codeDepartement": "59",
+    "siren": "215900523",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59221"
+    ],
+    "population": 5086
+  },
+  {
+    "nom": "Bavay",
+    "code": "59053",
+    "codeDepartement": "59",
+    "siren": "215900531",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 3264
+  },
+  {
+    "nom": "Bavinchove",
+    "code": "59054",
+    "codeDepartement": "59",
+    "siren": "215900549",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 998
+  },
+  {
+    "nom": "Bazuel",
+    "code": "59055",
+    "codeDepartement": "59",
+    "siren": "215900556",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 511
+  },
+  {
+    "nom": "Beaucamps-Ligny",
+    "code": "59056",
+    "codeDepartement": "59",
+    "siren": "215900564",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59134"
+    ],
+    "population": 851
+  },
+  {
+    "nom": "Beaudignies",
+    "code": "59057",
+    "codeDepartement": "59",
+    "siren": "215900572",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 561
+  },
+  {
+    "nom": "Beaufort",
+    "code": "59058",
+    "codeDepartement": "59",
+    "siren": "215900580",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 1014
+  },
+  {
+    "nom": "Beaumont-en-Cambrésis",
+    "code": "59059",
+    "codeDepartement": "59",
+    "siren": "215900598",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59540"
+    ],
+    "population": 441
+  },
+  {
+    "nom": "Beaurain",
+    "code": "59060",
+    "codeDepartement": "59",
+    "siren": "215900606",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59730"
+    ],
+    "population": 234
+  },
+  {
+    "nom": "Beaurepaire-sur-Sambre",
+    "code": "59061",
+    "codeDepartement": "59",
+    "siren": "215900614",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 266
+  },
+  {
+    "nom": "Beaurieux",
+    "code": "59062",
+    "codeDepartement": "59",
+    "siren": "215900622",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 164
+  },
+  {
+    "nom": "Beauvois-en-Cambrésis",
+    "code": "59063",
+    "codeDepartement": "59",
+    "siren": "215900630",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59157"
+    ],
+    "population": 2004
+  },
+  {
+    "nom": "Bellaing",
+    "code": "59064",
+    "codeDepartement": "59",
+    "siren": "215900648",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59135"
+    ],
+    "population": 1261
+  },
+  {
+    "nom": "Bellignies",
+    "code": "59065",
+    "codeDepartement": "59",
+    "siren": "215900655",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 813
+  },
+  {
+    "nom": "Bérelles",
+    "code": "59066",
+    "codeDepartement": "59",
+    "siren": "215900663",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 156
+  },
+  {
+    "nom": "Bergues",
+    "code": "59067",
+    "codeDepartement": "59",
+    "siren": "215900671",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 3600
+  },
+  {
+    "nom": "Berlaimont",
+    "code": "59068",
+    "codeDepartement": "59",
+    "siren": "215900689",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59145"
+    ],
+    "population": 3175
+  },
+  {
+    "nom": "Bermerain",
+    "code": "59069",
+    "codeDepartement": "59",
+    "siren": "215900697",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59213"
+    ],
+    "population": 736
+  },
+  {
+    "nom": "Bermeries",
+    "code": "59070",
+    "codeDepartement": "59",
+    "siren": "215900705",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 371
+  },
+  {
+    "nom": "Bersée",
+    "code": "59071",
+    "codeDepartement": "59",
+    "siren": "215900713",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59235"
+    ],
+    "population": 2263
+  },
+  {
+    "nom": "Bersillies",
+    "code": "59072",
+    "codeDepartement": "59",
+    "siren": "215900721",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 256
+  },
+  {
+    "nom": "Berthen",
+    "code": "59073",
+    "codeDepartement": "59",
+    "siren": "215900739",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 556
+  },
+  {
+    "nom": "Bertry",
+    "code": "59074",
+    "codeDepartement": "59",
+    "siren": "215900747",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59980"
+    ],
+    "population": 2168
+  },
+  {
+    "nom": "Béthencourt",
+    "code": "59075",
+    "codeDepartement": "59",
+    "siren": "215900754",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59540"
+    ],
+    "population": 755
+  },
+  {
+    "nom": "Bettignies",
+    "code": "59076",
+    "codeDepartement": "59",
+    "siren": "215900762",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 310
+  },
+  {
+    "nom": "Bettrechies",
+    "code": "59077",
+    "codeDepartement": "59",
+    "siren": "215900770",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 257
+  },
+  {
+    "nom": "Beugnies",
+    "code": "59078",
+    "codeDepartement": "59",
+    "siren": "215900788",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59216"
+    ],
+    "population": 624
+  },
+  {
+    "nom": "Beuvrages",
+    "code": "59079",
+    "codeDepartement": "59",
+    "siren": "215900796",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59192"
+    ],
+    "population": 6809
+  },
+  {
+    "nom": "Beuvry-la-Forêt",
+    "code": "59080",
+    "codeDepartement": "59",
+    "siren": "215900804",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 2796
+  },
+  {
+    "nom": "Bévillers",
+    "code": "59081",
+    "codeDepartement": "59",
+    "siren": "215900812",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59217"
+    ],
+    "population": 572
+  },
+  {
+    "nom": "Bierne",
+    "code": "59082",
+    "codeDepartement": "59",
+    "siren": "215900820",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 1801
+  },
+  {
+    "nom": "Bissezeele",
+    "code": "59083",
+    "codeDepartement": "59",
+    "siren": "215900838",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 253
+  },
+  {
+    "nom": "Blaringhem",
+    "code": "59084",
+    "codeDepartement": "59",
+    "siren": "215900846",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59173"
+    ],
+    "population": 2059
+  },
+  {
+    "nom": "Blécourt",
+    "code": "59085",
+    "codeDepartement": "59",
+    "siren": "215900853",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59268"
+    ],
+    "population": 305
+  },
+  {
+    "nom": "Boeschepe",
+    "code": "59086",
+    "codeDepartement": "59",
+    "siren": "215900861",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59299"
+    ],
+    "population": 2155
+  },
+  {
+    "nom": "Boëseghem",
+    "code": "59087",
+    "codeDepartement": "59",
+    "siren": "215900879",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59189"
+    ],
+    "population": 750
+  },
+  {
+    "nom": "Bois-Grenier",
+    "code": "59088",
+    "codeDepartement": "59",
+    "siren": "215900887",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59280"
+    ],
+    "population": 1739
+  },
+  {
+    "nom": "Bollezeele",
+    "code": "59089",
+    "codeDepartement": "59",
+    "siren": "215900895",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 1424
+  },
+  {
+    "nom": "Bondues",
+    "code": "59090",
+    "codeDepartement": "59",
+    "siren": "215900903",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59910"
+    ],
+    "population": 9808
+  },
+  {
+    "nom": "Borre",
+    "code": "59091",
+    "codeDepartement": "59",
+    "siren": "215900911",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 578
+  },
+  {
+    "nom": "Bouchain",
+    "code": "59092",
+    "codeDepartement": "59",
+    "siren": "215900929",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59111"
+    ],
+    "population": 3924
+  },
+  {
+    "nom": "Boulogne-sur-Helpe",
+    "code": "59093",
+    "codeDepartement": "59",
+    "siren": "215900937",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 341
+  },
+  {
+    "nom": "Bourbourg",
+    "code": "59094",
+    "codeDepartement": "59",
+    "siren": "215900945",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59630"
+    ],
+    "population": 7152
+  },
+  {
+    "nom": "Bourghelles",
+    "code": "59096",
+    "codeDepartement": "59",
+    "siren": "215900960",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 1661
+  },
+  {
+    "nom": "Boursies",
+    "code": "59097",
+    "codeDepartement": "59",
+    "siren": "215900978",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 402
+  },
+  {
+    "nom": "Bousbecque",
+    "code": "59098",
+    "codeDepartement": "59",
+    "siren": "215900986",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59166"
+    ],
+    "population": 4804
+  },
+  {
+    "nom": "Bousies",
+    "code": "59099",
+    "codeDepartement": "59",
+    "siren": "215900994",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59222"
+    ],
+    "population": 1757
+  },
+  {
+    "nom": "Bousignies",
+    "code": "59100",
+    "codeDepartement": "59",
+    "siren": "215901000",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59178"
+    ],
+    "population": 348
+  },
+  {
+    "nom": "Bousignies-sur-Roc",
+    "code": "59101",
+    "codeDepartement": "59",
+    "siren": "215901018",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59149"
+    ],
+    "population": 387
+  },
+  {
+    "nom": "Boussières-en-Cambrésis",
+    "code": "59102",
+    "codeDepartement": "59",
+    "siren": "215901026",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59217"
+    ],
+    "population": 438
+  },
+  {
+    "nom": "Boussières-sur-Sambre",
+    "code": "59103",
+    "codeDepartement": "59",
+    "siren": "215901034",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 521
+  },
+  {
+    "nom": "Boussois",
+    "code": "59104",
+    "codeDepartement": "59",
+    "siren": "215901042",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59168"
+    ],
+    "population": 3194
+  },
+  {
+    "nom": "Bouvignies",
+    "code": "59105",
+    "codeDepartement": "59",
+    "siren": "215901059",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 1532
+  },
+  {
+    "nom": "Bouvines",
+    "code": "59106",
+    "codeDepartement": "59",
+    "siren": "215901067",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 756
+  },
+  {
+    "nom": "Bray-Dunes",
+    "code": "59107",
+    "codeDepartement": "59",
+    "siren": "215901075",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59123"
+    ],
+    "population": 4495
+  },
+  {
+    "nom": "Briastre",
+    "code": "59108",
+    "codeDepartement": "59",
+    "siren": "215901083",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59730"
+    ],
+    "population": 750
+  },
+  {
+    "nom": "Brillon",
+    "code": "59109",
+    "codeDepartement": "59",
+    "siren": "215901091",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59178"
+    ],
+    "population": 771
+  },
+  {
+    "nom": "Brouckerque",
+    "code": "59110",
+    "codeDepartement": "59",
+    "siren": "215901109",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59630"
+    ],
+    "population": 1421
+  },
+  {
+    "nom": "Broxeele",
+    "code": "59111",
+    "codeDepartement": "59",
+    "siren": "215901117",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 399
+  },
+  {
+    "nom": "Bruay-sur-l'Escaut",
+    "code": "59112",
+    "codeDepartement": "59",
+    "siren": "215901125",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59860"
+    ],
+    "population": 11258
+  },
+  {
+    "nom": "Bruille-lez-Marchiennes",
+    "code": "59113",
+    "codeDepartement": "59",
+    "siren": "215901133",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59490"
+    ],
+    "population": 1361
+  },
+  {
+    "nom": "Bruille-Saint-Amand",
+    "code": "59114",
+    "codeDepartement": "59",
+    "siren": "215901141",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59199"
+    ],
+    "population": 1667
+  },
+  {
+    "nom": "Brunémont",
+    "code": "59115",
+    "codeDepartement": "59",
+    "siren": "215901158",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59151"
+    ],
+    "population": 709
+  },
+  {
+    "nom": "Bry",
+    "code": "59116",
+    "codeDepartement": "59",
+    "siren": "215901166",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 414
+  },
+  {
+    "nom": "Bugnicourt",
+    "code": "59117",
+    "codeDepartement": "59",
+    "siren": "215901174",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59151"
+    ],
+    "population": 1049
+  },
+  {
+    "nom": "Busigny",
+    "code": "59118",
+    "codeDepartement": "59",
+    "siren": "215901182",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59137"
+    ],
+    "population": 2456
+  },
+  {
+    "nom": "Buysscheure",
+    "code": "59119",
+    "codeDepartement": "59",
+    "siren": "215901190",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59285"
+    ],
+    "population": 609
+  },
+  {
+    "nom": "Caëstre",
+    "code": "59120",
+    "codeDepartement": "59",
+    "siren": "215901208",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 2019
+  },
+  {
+    "nom": "Cagnoncles",
+    "code": "59121",
+    "codeDepartement": "59",
+    "siren": "215901216",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59161"
+    ],
+    "population": 618
+  },
+  {
+    "nom": "Cambrai",
+    "code": "59122",
+    "codeDepartement": "59",
+    "siren": "215901224",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 32176
+  },
+  {
+    "nom": "Camphin-en-Carembault",
+    "code": "59123",
+    "codeDepartement": "59",
+    "siren": "215901232",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59133"
+    ],
+    "population": 1699
+  },
+  {
+    "nom": "Camphin-en-Pévèle",
+    "code": "59124",
+    "codeDepartement": "59",
+    "siren": "215901240",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59780"
+    ],
+    "population": 2499
+  },
+  {
+    "nom": "Cantaing-sur-Escaut",
+    "code": "59125",
+    "codeDepartement": "59",
+    "siren": "215901257",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59267"
+    ],
+    "population": 404
+  },
+  {
+    "nom": "Cantin",
+    "code": "59126",
+    "codeDepartement": "59",
+    "siren": "215901265",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59169"
+    ],
+    "population": 1685
+  },
+  {
+    "nom": "Capelle",
+    "code": "59127",
+    "codeDepartement": "59",
+    "siren": "215901273",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59213"
+    ],
+    "population": 145
+  },
+  {
+    "nom": "Capinghem",
+    "code": "59128",
+    "codeDepartement": "59",
+    "siren": "215901281",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59160"
+    ],
+    "population": 2537
+  },
+  {
+    "nom": "Cappelle-en-Pévèle",
+    "code": "59129",
+    "codeDepartement": "59",
+    "siren": "215901299",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59242"
+    ],
+    "population": 2268
+  },
+  {
+    "nom": "Cappelle-Brouck",
+    "code": "59130",
+    "codeDepartement": "59",
+    "siren": "215901307",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59630"
+    ],
+    "population": 1151
+  },
+  {
+    "nom": "Cappelle-la-Grande",
+    "code": "59131",
+    "codeDepartement": "59",
+    "siren": "215901315",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59180"
+    ],
+    "population": 7920
+  },
+  {
+    "nom": "Carnières",
+    "code": "59132",
+    "codeDepartement": "59",
+    "siren": "215901323",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59217"
+    ],
+    "population": 1020
+  },
+  {
+    "nom": "Carnin",
+    "code": "59133",
+    "codeDepartement": "59",
+    "siren": "215901331",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59112"
+    ],
+    "population": 1033
+  },
+  {
+    "nom": "Cartignies",
+    "code": "59134",
+    "codeDepartement": "59",
+    "siren": "215901349",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59244"
+    ],
+    "population": 1246
+  },
+  {
+    "nom": "Cassel",
+    "code": "59135",
+    "codeDepartement": "59",
+    "siren": "215901356",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 2265
+  },
+  {
+    "nom": "Le Cateau-Cambrésis",
+    "code": "59136",
+    "codeDepartement": "59",
+    "siren": "215901364",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 7030
+  },
+  {
+    "nom": "Catillon-sur-Sambre",
+    "code": "59137",
+    "codeDepartement": "59",
+    "siren": "215901372",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 805
+  },
+  {
+    "nom": "Cattenières",
+    "code": "59138",
+    "codeDepartement": "59",
+    "siren": "215901380",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59217"
+    ],
+    "population": 682
+  },
+  {
+    "nom": "Caudry",
+    "code": "59139",
+    "codeDepartement": "59",
+    "siren": "215901398",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59540"
+    ],
+    "population": 14121
+  },
+  {
+    "nom": "Caullery",
+    "code": "59140",
+    "codeDepartement": "59",
+    "siren": "215901406",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59191"
+    ],
+    "population": 452
+  },
+  {
+    "nom": "Cauroir",
+    "code": "59141",
+    "codeDepartement": "59",
+    "siren": "215901414",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 567
+  },
+  {
+    "nom": "Cerfontaine",
+    "code": "59142",
+    "codeDepartement": "59",
+    "siren": "215901422",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 709
+  },
+  {
+    "nom": "La Chapelle-d'Armentières",
+    "code": "59143",
+    "codeDepartement": "59",
+    "siren": "215901430",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59930"
+    ],
+    "population": 8577
+  },
+  {
+    "nom": "Château-l'Abbaye",
+    "code": "59144",
+    "codeDepartement": "59",
+    "siren": "215901448",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59230"
+    ],
+    "population": 862
+  },
+  {
+    "nom": "Chemy",
+    "code": "59145",
+    "codeDepartement": "59",
+    "siren": "215901455",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59147"
+    ],
+    "population": 772
+  },
+  {
+    "nom": "Chéreng",
+    "code": "59146",
+    "codeDepartement": "59",
+    "siren": "215901463",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59152"
+    ],
+    "population": 2973
+  },
+  {
+    "nom": "Choisies",
+    "code": "59147",
+    "codeDepartement": "59",
+    "siren": "215901471",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 49
+  },
+  {
+    "nom": "Clairfayts",
+    "code": "59148",
+    "codeDepartement": "59",
+    "siren": "215901489",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 361
+  },
+  {
+    "nom": "Clary",
+    "code": "59149",
+    "codeDepartement": "59",
+    "siren": "215901497",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59225"
+    ],
+    "population": 1088
+  },
+  {
+    "nom": "Cobrieux",
+    "code": "59150",
+    "codeDepartement": "59",
+    "siren": "215901505",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 526
+  },
+  {
+    "nom": "Colleret",
+    "code": "59151",
+    "codeDepartement": "59",
+    "siren": "215901513",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 1617
+  },
+  {
+    "nom": "Comines",
+    "code": "59152",
+    "codeDepartement": "59",
+    "siren": "215901521",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59560"
+    ],
+    "population": 12788
+  },
+  {
+    "nom": "Condé-sur-l'Escaut",
+    "code": "59153",
+    "codeDepartement": "59",
+    "siren": "215901539",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59163"
+    ],
+    "population": 9515
+  },
+  {
+    "nom": "Coudekerque-Branche",
+    "code": "59155",
+    "codeDepartement": "59",
+    "siren": "215901554",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59210"
+    ],
+    "population": 20851
+  },
+  {
+    "nom": "Courchelettes",
+    "code": "59156",
+    "codeDepartement": "59",
+    "siren": "215901562",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59552"
+    ],
+    "population": 2842
+  },
+  {
+    "nom": "Cousolre",
+    "code": "59157",
+    "codeDepartement": "59",
+    "siren": "215901570",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59149"
+    ],
+    "population": 2205
+  },
+  {
+    "nom": "Coutiches",
+    "code": "59158",
+    "codeDepartement": "59",
+    "siren": "215901588",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 3077
+  },
+  {
+    "nom": "Craywick",
+    "code": "59159",
+    "codeDepartement": "59",
+    "siren": "215901596",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59279"
+    ],
+    "population": 668
+  },
+  {
+    "nom": "Crespin",
+    "code": "59160",
+    "codeDepartement": "59",
+    "siren": "215901604",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59154"
+    ],
+    "population": 4495
+  },
+  {
+    "nom": "Crèvecœur-sur-l'Escaut",
+    "code": "59161",
+    "codeDepartement": "59",
+    "siren": "215901612",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59258"
+    ],
+    "population": 751
+  },
+  {
+    "nom": "Crochte",
+    "code": "59162",
+    "codeDepartement": "59",
+    "siren": "215901620",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 665
+  },
+  {
+    "nom": "Croix",
+    "code": "59163",
+    "codeDepartement": "59",
+    "siren": "215901638",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59170"
+    ],
+    "population": 20881
+  },
+  {
+    "nom": "Croix-Caluyau",
+    "code": "59164",
+    "codeDepartement": "59",
+    "siren": "215901646",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59222"
+    ],
+    "population": 247
+  },
+  {
+    "nom": "Cuincy",
+    "code": "59165",
+    "codeDepartement": "59",
+    "siren": "215901653",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59553"
+    ],
+    "population": 6400
+  },
+  {
+    "nom": "Curgies",
+    "code": "59166",
+    "codeDepartement": "59",
+    "siren": "215901661",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 1337
+  },
+  {
+    "nom": "Cuvillers",
+    "code": "59167",
+    "codeDepartement": "59",
+    "siren": "215901679",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59268"
+    ],
+    "population": 198
+  },
+  {
+    "nom": "Cysoing",
+    "code": "59168",
+    "codeDepartement": "59",
+    "siren": "215901687",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 4849
+  },
+  {
+    "nom": "Damousies",
+    "code": "59169",
+    "codeDepartement": "59",
+    "siren": "215901695",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 202
+  },
+  {
+    "nom": "Dechy",
+    "code": "59170",
+    "codeDepartement": "59",
+    "siren": "215901703",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59187"
+    ],
+    "population": 5360
+  },
+  {
+    "nom": "Dehéries",
+    "code": "59171",
+    "codeDepartement": "59",
+    "siren": "215901711",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59127"
+    ],
+    "population": 37
+  },
+  {
+    "nom": "Denain",
+    "code": "59172",
+    "codeDepartement": "59",
+    "siren": "215901729",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59220"
+    ],
+    "population": 19877
+  },
+  {
+    "nom": "Deûlémont",
+    "code": "59173",
+    "codeDepartement": "59",
+    "siren": "215901737",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59890"
+    ],
+    "population": 1818
+  },
+  {
+    "nom": "Dimechaux",
+    "code": "59174",
+    "codeDepartement": "59",
+    "siren": "215901745",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 330
+  },
+  {
+    "nom": "Dimont",
+    "code": "59175",
+    "codeDepartement": "59",
+    "siren": "215901752",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59216"
+    ],
+    "population": 310
+  },
+  {
+    "nom": "Doignies",
+    "code": "59176",
+    "codeDepartement": "59",
+    "siren": "215901760",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 326
+  },
+  {
+    "nom": "Dompierre-sur-Helpe",
+    "code": "59177",
+    "codeDepartement": "59",
+    "siren": "215901778",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 857
+  },
+  {
+    "nom": "Douai",
+    "code": "59178",
+    "codeDepartement": "59",
+    "siren": "215901786",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59500"
+    ],
+    "population": 39613
+  },
+  {
+    "nom": "Douchy-les-Mines",
+    "code": "59179",
+    "codeDepartement": "59",
+    "siren": "215901794",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59282"
+    ],
+    "population": 10293
+  },
+  {
+    "nom": "Le Doulieu",
+    "code": "59180",
+    "codeDepartement": "59",
+    "siren": "215901802",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59940"
+    ],
+    "population": 1466
+  },
+  {
+    "nom": "Dourlers",
+    "code": "59181",
+    "codeDepartement": "59",
+    "siren": "215901810",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 551
+  },
+  {
+    "nom": "Drincham",
+    "code": "59182",
+    "codeDepartement": "59",
+    "siren": "215901828",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59630"
+    ],
+    "population": 266
+  },
+  {
+    "nom": "Dunkerque",
+    "code": "59183",
+    "codeDepartement": "59",
+    "siren": "200027159",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59640",
+      "59140",
+      "59240",
+      "59430",
+      "59279"
+    ],
+    "population": 86279
+  },
+  {
+    "nom": "Ebblinghem",
+    "code": "59184",
+    "codeDepartement": "59",
+    "siren": "215901844",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59173"
+    ],
+    "population": 658
+  },
+  {
+    "nom": "Écaillon",
+    "code": "59185",
+    "codeDepartement": "59",
+    "siren": "215901851",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59176"
+    ],
+    "population": 1963
+  },
+  {
+    "nom": "Eccles",
+    "code": "59186",
+    "codeDepartement": "59",
+    "siren": "215901869",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 80
+  },
+  {
+    "nom": "Éclaibes",
+    "code": "59187",
+    "codeDepartement": "59",
+    "siren": "215901877",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 268
+  },
+  {
+    "nom": "Écuélin",
+    "code": "59188",
+    "codeDepartement": "59",
+    "siren": "215901885",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59620"
+    ],
+    "population": 140
+  },
+  {
+    "nom": "Eecke",
+    "code": "59189",
+    "codeDepartement": "59",
+    "siren": "215901893",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59114"
+    ],
+    "population": 1221
+  },
+  {
+    "nom": "Élesmes",
+    "code": "59190",
+    "codeDepartement": "59",
+    "siren": "215901901",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 986
+  },
+  {
+    "nom": "Élincourt",
+    "code": "59191",
+    "codeDepartement": "59",
+    "siren": "215901919",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59127"
+    ],
+    "population": 625
+  },
+  {
+    "nom": "Émerchicourt",
+    "code": "59192",
+    "codeDepartement": "59",
+    "siren": "215901927",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59580"
+    ],
+    "population": 847
+  },
+  {
+    "nom": "Emmerin",
+    "code": "59193",
+    "codeDepartement": "59",
+    "siren": "215901935",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 3108
+  },
+  {
+    "nom": "Englefontaine",
+    "code": "59194",
+    "codeDepartement": "59",
+    "siren": "215901943",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 1282
+  },
+  {
+    "nom": "Englos",
+    "code": "59195",
+    "codeDepartement": "59",
+    "siren": "215901950",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 613
+  },
+  {
+    "nom": "Ennetières-en-Weppes",
+    "code": "59196",
+    "codeDepartement": "59",
+    "siren": "215901968",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 1304
+  },
+  {
+    "nom": "Ennevelin",
+    "code": "59197",
+    "codeDepartement": "59",
+    "siren": "215901976",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59710"
+    ],
+    "population": 2236
+  },
+  {
+    "nom": "Eppe-Sauvage",
+    "code": "59198",
+    "codeDepartement": "59",
+    "siren": "215901984",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 248
+  },
+  {
+    "nom": "Erchin",
+    "code": "59199",
+    "codeDepartement": "59",
+    "siren": "215901992",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59169"
+    ],
+    "population": 686
+  },
+  {
+    "nom": "Eringhem",
+    "code": "59200",
+    "codeDepartement": "59",
+    "siren": "215902008",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 504
+  },
+  {
+    "nom": "Erquinghem-le-Sec",
+    "code": "59201",
+    "codeDepartement": "59",
+    "siren": "215902016",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 597
+  },
+  {
+    "nom": "Erquinghem-Lys",
+    "code": "59202",
+    "codeDepartement": "59",
+    "siren": "215902024",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59193"
+    ],
+    "population": 5316
+  },
+  {
+    "nom": "Erre",
+    "code": "59203",
+    "codeDepartement": "59",
+    "siren": "215902032",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59171"
+    ],
+    "population": 1587
+  },
+  {
+    "nom": "Escarmain",
+    "code": "59204",
+    "codeDepartement": "59",
+    "siren": "215902040",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59213"
+    ],
+    "population": 484
+  },
+  {
+    "nom": "Escaudain",
+    "code": "59205",
+    "codeDepartement": "59",
+    "siren": "215902057",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59124"
+    ],
+    "population": 9682
+  },
+  {
+    "nom": "Escaudœuvres",
+    "code": "59206",
+    "codeDepartement": "59",
+    "siren": "215902065",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59161"
+    ],
+    "population": 3218
+  },
+  {
+    "nom": "Escautpont",
+    "code": "59207",
+    "codeDepartement": "59",
+    "siren": "215902073",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59278"
+    ],
+    "population": 4208
+  },
+  {
+    "nom": "Escobecques",
+    "code": "59208",
+    "codeDepartement": "59",
+    "siren": "215902081",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 304
+  },
+  {
+    "nom": "Esnes",
+    "code": "59209",
+    "codeDepartement": "59",
+    "siren": "215902099",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59127"
+    ],
+    "population": 674
+  },
+  {
+    "nom": "Esquelbecq",
+    "code": "59210",
+    "codeDepartement": "59",
+    "siren": "215902107",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 2116
+  },
+  {
+    "nom": "Esquerchin",
+    "code": "59211",
+    "codeDepartement": "59",
+    "siren": "215902115",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59553"
+    ],
+    "population": 906
+  },
+  {
+    "nom": "Estaires",
+    "code": "59212",
+    "codeDepartement": "59",
+    "siren": "215902123",
+    "codeEpci": "245900758",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59940"
+    ],
+    "population": 6461
+  },
+  {
+    "nom": "Estourmel",
+    "code": "59213",
+    "codeDepartement": "59",
+    "siren": "215902131",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 458
+  },
+  {
+    "nom": "Estrées",
+    "code": "59214",
+    "codeDepartement": "59",
+    "siren": "215902149",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59151"
+    ],
+    "population": 1103
+  },
+  {
+    "nom": "Estreux",
+    "code": "59215",
+    "codeDepartement": "59",
+    "siren": "215902156",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 959
+  },
+  {
+    "nom": "Eswars",
+    "code": "59216",
+    "codeDepartement": "59",
+    "siren": "215902164",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59161"
+    ],
+    "population": 350
+  },
+  {
+    "nom": "Eth",
+    "code": "59217",
+    "codeDepartement": "59",
+    "siren": "215902172",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 346
+  },
+  {
+    "nom": "Étrœungt",
+    "code": "59218",
+    "codeDepartement": "59",
+    "siren": "215902180",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59219"
+    ],
+    "population": 1307
+  },
+  {
+    "nom": "Estrun",
+    "code": "59219",
+    "codeDepartement": "59",
+    "siren": "215902198",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59295"
+    ],
+    "population": 712
+  },
+  {
+    "nom": "Faches-Thumesnil",
+    "code": "59220",
+    "codeDepartement": "59",
+    "siren": "215902206",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59155"
+    ],
+    "population": 18191
+  },
+  {
+    "nom": "Famars",
+    "code": "59221",
+    "codeDepartement": "59",
+    "siren": "215902214",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59300"
+    ],
+    "population": 2545
+  },
+  {
+    "nom": "Faumont",
+    "code": "59222",
+    "codeDepartement": "59",
+    "siren": "215902222",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 2213
+  },
+  {
+    "nom": "Le Favril",
+    "code": "59223",
+    "codeDepartement": "59",
+    "siren": "215902230",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 504
+  },
+  {
+    "nom": "Féchain",
+    "code": "59224",
+    "codeDepartement": "59",
+    "siren": "215902248",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59247"
+    ],
+    "population": 1698
+  },
+  {
+    "nom": "Feignies",
+    "code": "59225",
+    "codeDepartement": "59",
+    "siren": "215902255",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59750"
+    ],
+    "population": 6809
+  },
+  {
+    "nom": "Felleries",
+    "code": "59226",
+    "codeDepartement": "59",
+    "siren": "215902263",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 1454
+  },
+  {
+    "nom": "Fenain",
+    "code": "59227",
+    "codeDepartement": "59",
+    "siren": "215902271",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59179"
+    ],
+    "population": 5510
+  },
+  {
+    "nom": "Férin",
+    "code": "59228",
+    "codeDepartement": "59",
+    "siren": "215902289",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59169"
+    ],
+    "population": 1458
+  },
+  {
+    "nom": "Féron",
+    "code": "59229",
+    "codeDepartement": "59",
+    "siren": "215902297",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59610"
+    ],
+    "population": 564
+  },
+  {
+    "nom": "Ferrière-la-Grande",
+    "code": "59230",
+    "codeDepartement": "59",
+    "siren": "215902305",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 5273
+  },
+  {
+    "nom": "Ferrière-la-Petite",
+    "code": "59231",
+    "codeDepartement": "59",
+    "siren": "215902313",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 1058
+  },
+  {
+    "nom": "La Flamengrie",
+    "code": "59232",
+    "codeDepartement": "59",
+    "siren": "215902321",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 426
+  },
+  {
+    "nom": "Flaumont-Waudrechies",
+    "code": "59233",
+    "codeDepartement": "59",
+    "siren": "215902339",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 365
+  },
+  {
+    "nom": "Flers-en-Escrebieux",
+    "code": "59234",
+    "codeDepartement": "59",
+    "siren": "215902347",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59128"
+    ],
+    "population": 5781
+  },
+  {
+    "nom": "Flesquières",
+    "code": "59236",
+    "codeDepartement": "59",
+    "siren": "215902362",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59267"
+    ],
+    "population": 261
+  },
+  {
+    "nom": "Flêtre",
+    "code": "59237",
+    "codeDepartement": "59",
+    "siren": "215902370",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 986
+  },
+  {
+    "nom": "Flines-lès-Mortagne",
+    "code": "59238",
+    "codeDepartement": "59",
+    "siren": "215902388",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59158"
+    ],
+    "population": 1635
+  },
+  {
+    "nom": "Flines-lez-Raches",
+    "code": "59239",
+    "codeDepartement": "59",
+    "siren": "215902396",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59148"
+    ],
+    "population": 5598
+  },
+  {
+    "nom": "Floursies",
+    "code": "59240",
+    "codeDepartement": "59",
+    "siren": "215902404",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 127
+  },
+  {
+    "nom": "Floyon",
+    "code": "59241",
+    "codeDepartement": "59",
+    "siren": "215902412",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59219"
+    ],
+    "population": 520
+  },
+  {
+    "nom": "Fontaine-au-Bois",
+    "code": "59242",
+    "codeDepartement": "59",
+    "siren": "215902420",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 674
+  },
+  {
+    "nom": "Fontaine-au-Pire",
+    "code": "59243",
+    "codeDepartement": "59",
+    "siren": "215902438",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59157"
+    ],
+    "population": 1220
+  },
+  {
+    "nom": "Fontaine-Notre-Dame",
+    "code": "59244",
+    "codeDepartement": "59",
+    "siren": "215902446",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 1776
+  },
+  {
+    "nom": "Forest-en-Cambrésis",
+    "code": "59246",
+    "codeDepartement": "59",
+    "siren": "215902461",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59222"
+    ],
+    "population": 570
+  },
+  {
+    "nom": "Forest-sur-Marque",
+    "code": "59247",
+    "codeDepartement": "59",
+    "siren": "215902479",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59510"
+    ],
+    "population": 1462
+  },
+  {
+    "nom": "Fourmies",
+    "code": "59249",
+    "codeDepartement": "59",
+    "siren": "215902495",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59610"
+    ],
+    "population": 11563
+  },
+  {
+    "nom": "Fournes-en-Weppes",
+    "code": "59250",
+    "codeDepartement": "59",
+    "siren": "215902503",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59134"
+    ],
+    "population": 2231
+  },
+  {
+    "nom": "Frasnoy",
+    "code": "59251",
+    "codeDepartement": "59",
+    "siren": "215902511",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 376
+  },
+  {
+    "nom": "Frelinghien",
+    "code": "59252",
+    "codeDepartement": "59",
+    "siren": "215902529",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59236"
+    ],
+    "population": 2447
+  },
+  {
+    "nom": "Fresnes-sur-Escaut",
+    "code": "59253",
+    "codeDepartement": "59",
+    "siren": "215902537",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59970"
+    ],
+    "population": 7499
+  },
+  {
+    "nom": "Fressain",
+    "code": "59254",
+    "codeDepartement": "59",
+    "siren": "215902545",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59234"
+    ],
+    "population": 880
+  },
+  {
+    "nom": "Fressies",
+    "code": "59255",
+    "codeDepartement": "59",
+    "siren": "215902552",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59268"
+    ],
+    "population": 571
+  },
+  {
+    "nom": "Fretin",
+    "code": "59256",
+    "codeDepartement": "59",
+    "siren": "215902560",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59273"
+    ],
+    "population": 3290
+  },
+  {
+    "nom": "Fromelles",
+    "code": "59257",
+    "codeDepartement": "59",
+    "siren": "215902578",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59249"
+    ],
+    "population": 1041
+  },
+  {
+    "nom": "Genech",
+    "code": "59258",
+    "codeDepartement": "59",
+    "siren": "215902586",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59242"
+    ],
+    "population": 2827
+  },
+  {
+    "nom": "Ghissignies",
+    "code": "59259",
+    "codeDepartement": "59",
+    "siren": "215902594",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 511
+  },
+  {
+    "nom": "Ghyvelde",
+    "code": "59260",
+    "codeDepartement": "59",
+    "siren": "200057222",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59122",
+      "59254"
+    ],
+    "population": 4131
+  },
+  {
+    "nom": "Glageon",
+    "code": "59261",
+    "codeDepartement": "59",
+    "siren": "215902610",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 1758
+  },
+  {
+    "nom": "Godewaersvelde",
+    "code": "59262",
+    "codeDepartement": "59",
+    "siren": "215902628",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 2086
+  },
+  {
+    "nom": "Gœulzin",
+    "code": "59263",
+    "codeDepartement": "59",
+    "siren": "215902636",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59169"
+    ],
+    "population": 1049
+  },
+  {
+    "nom": "Gognies-Chaussée",
+    "code": "59264",
+    "codeDepartement": "59",
+    "siren": "215902644",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 730
+  },
+  {
+    "nom": "Gommegnies",
+    "code": "59265",
+    "codeDepartement": "59",
+    "siren": "215902651",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 2308
+  },
+  {
+    "nom": "Gondecourt",
+    "code": "59266",
+    "codeDepartement": "59",
+    "siren": "215902669",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59147"
+    ],
+    "population": 4031
+  },
+  {
+    "nom": "Gonnelieu",
+    "code": "59267",
+    "codeDepartement": "59",
+    "siren": "215902677",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59231"
+    ],
+    "population": 302
+  },
+  {
+    "nom": "La Gorgue",
+    "code": "59268",
+    "codeDepartement": "59",
+    "siren": "215902685",
+    "codeEpci": "245900758",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59253"
+    ],
+    "population": 5639
+  },
+  {
+    "nom": "Gouzeaucourt",
+    "code": "59269",
+    "codeDepartement": "59",
+    "siren": "215902693",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59231"
+    ],
+    "population": 1475
+  },
+  {
+    "nom": "Grand-Fayt",
+    "code": "59270",
+    "codeDepartement": "59",
+    "siren": "215902701",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59244"
+    ],
+    "population": 482
+  },
+  {
+    "nom": "Grande-Synthe",
+    "code": "59271",
+    "codeDepartement": "59",
+    "siren": "215902719",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59760"
+    ],
+    "population": 22522
+  },
+  {
+    "nom": "Grand-Fort-Philippe",
+    "code": "59272",
+    "codeDepartement": "59",
+    "siren": "215902727",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59153"
+    ],
+    "population": 5130
+  },
+  {
+    "nom": "Gravelines",
+    "code": "59273",
+    "codeDepartement": "59",
+    "siren": "215902735",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59820"
+    ],
+    "population": 11014
+  },
+  {
+    "nom": "La Groise",
+    "code": "59274",
+    "codeDepartement": "59",
+    "siren": "215902743",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 482
+  },
+  {
+    "nom": "Gruson",
+    "code": "59275",
+    "codeDepartement": "59",
+    "siren": "215902750",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59152"
+    ],
+    "population": 1267
+  },
+  {
+    "nom": "Guesnain",
+    "code": "59276",
+    "codeDepartement": "59",
+    "siren": "215902768",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59287"
+    ],
+    "population": 4689
+  },
+  {
+    "nom": "Gussignies",
+    "code": "59277",
+    "codeDepartement": "59",
+    "siren": "215902776",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 332
+  },
+  {
+    "nom": "Hallennes-lez-Haubourdin",
+    "code": "59278",
+    "codeDepartement": "59",
+    "siren": "215902784",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 4676
+  },
+  {
+    "nom": "Halluin",
+    "code": "59279",
+    "codeDepartement": "59",
+    "siren": "215902792",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59250"
+    ],
+    "population": 20743
+  },
+  {
+    "nom": "Hamel",
+    "code": "59280",
+    "codeDepartement": "59",
+    "siren": "215902800",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59151"
+    ],
+    "population": 788
+  },
+  {
+    "nom": "Hantay",
+    "code": "59281",
+    "codeDepartement": "59",
+    "siren": "215902818",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59496"
+    ],
+    "population": 1281
+  },
+  {
+    "nom": "Hardifort",
+    "code": "59282",
+    "codeDepartement": "59",
+    "siren": "215902826",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 407
+  },
+  {
+    "nom": "Hargnies",
+    "code": "59283",
+    "codeDepartement": "59",
+    "siren": "215902834",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59138"
+    ],
+    "population": 613
+  },
+  {
+    "nom": "Hasnon",
+    "code": "59284",
+    "codeDepartement": "59",
+    "siren": "215902842",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59178"
+    ],
+    "population": 3918
+  },
+  {
+    "nom": "Haspres",
+    "code": "59285",
+    "codeDepartement": "59",
+    "siren": "215902859",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59198"
+    ],
+    "population": 2680
+  },
+  {
+    "nom": "Haubourdin",
+    "code": "59286",
+    "codeDepartement": "59",
+    "siren": "215902867",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 14725
+  },
+  {
+    "nom": "Haucourt-en-Cambrésis",
+    "code": "59287",
+    "codeDepartement": "59",
+    "siren": "215902875",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59191"
+    ],
+    "population": 193
+  },
+  {
+    "nom": "Haulchin",
+    "code": "59288",
+    "codeDepartement": "59",
+    "siren": "215902883",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59121"
+    ],
+    "population": 2340
+  },
+  {
+    "nom": "Haussy",
+    "code": "59289",
+    "codeDepartement": "59",
+    "siren": "215902891",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59294"
+    ],
+    "population": 1521
+  },
+  {
+    "nom": "Haut-Lieu",
+    "code": "59290",
+    "codeDepartement": "59",
+    "siren": "215902909",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 394
+  },
+  {
+    "nom": "Hautmont",
+    "code": "59291",
+    "codeDepartement": "59",
+    "siren": "215902917",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 14517
+  },
+  {
+    "nom": "Haveluy",
+    "code": "59292",
+    "codeDepartement": "59",
+    "siren": "215902925",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59255"
+    ],
+    "population": 3304
+  },
+  {
+    "nom": "Haverskerque",
+    "code": "59293",
+    "codeDepartement": "59",
+    "siren": "215902933",
+    "codeEpci": "245900758",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59660"
+    ],
+    "population": 1413
+  },
+  {
+    "nom": "Haynecourt",
+    "code": "59294",
+    "codeDepartement": "59",
+    "siren": "215902941",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59268"
+    ],
+    "population": 314
+  },
+  {
+    "nom": "Hazebrouck",
+    "code": "59295",
+    "codeDepartement": "59",
+    "siren": "215902958",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 21408
+  },
+  {
+    "nom": "Hecq",
+    "code": "59296",
+    "codeDepartement": "59",
+    "siren": "215902966",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 354
+  },
+  {
+    "nom": "Hélesmes",
+    "code": "59297",
+    "codeDepartement": "59",
+    "siren": "215902974",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59171"
+    ],
+    "population": 1979
+  },
+  {
+    "nom": "Hem",
+    "code": "59299",
+    "codeDepartement": "59",
+    "siren": "215902990",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59510"
+    ],
+    "population": 18636
+  },
+  {
+    "nom": "Hem-Lenglet",
+    "code": "59300",
+    "codeDepartement": "59",
+    "siren": "215903006",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59247"
+    ],
+    "population": 548
+  },
+  {
+    "nom": "Hergnies",
+    "code": "59301",
+    "codeDepartement": "59",
+    "siren": "215903014",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59199"
+    ],
+    "population": 4433
+  },
+  {
+    "nom": "Hérin",
+    "code": "59302",
+    "codeDepartement": "59",
+    "siren": "215903022",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59195"
+    ],
+    "population": 4127
+  },
+  {
+    "nom": "Herlies",
+    "code": "59303",
+    "codeDepartement": "59",
+    "siren": "215903030",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59134"
+    ],
+    "population": 2393
+  },
+  {
+    "nom": "Herrin",
+    "code": "59304",
+    "codeDepartement": "59",
+    "siren": "215903048",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59147"
+    ],
+    "population": 418
+  },
+  {
+    "nom": "Herzeele",
+    "code": "59305",
+    "codeDepartement": "59",
+    "siren": "215903055",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 1649
+  },
+  {
+    "nom": "Hestrud",
+    "code": "59306",
+    "codeDepartement": "59",
+    "siren": "215903063",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 292
+  },
+  {
+    "nom": "Holque",
+    "code": "59307",
+    "codeDepartement": "59",
+    "siren": "215903071",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 903
+  },
+  {
+    "nom": "Hondeghem",
+    "code": "59308",
+    "codeDepartement": "59",
+    "siren": "215903089",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 934
+  },
+  {
+    "nom": "Hondschoote",
+    "code": "59309",
+    "codeDepartement": "59",
+    "siren": "215903097",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59122"
+    ],
+    "population": 4060
+  },
+  {
+    "nom": "Hon-Hergies",
+    "code": "59310",
+    "codeDepartement": "59",
+    "siren": "215903105",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 867
+  },
+  {
+    "nom": "Honnechy",
+    "code": "59311",
+    "codeDepartement": "59",
+    "siren": "215903113",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59980"
+    ],
+    "population": 561
+  },
+  {
+    "nom": "Honnecourt-sur-Escaut",
+    "code": "59312",
+    "codeDepartement": "59",
+    "siren": "215903121",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59266"
+    ],
+    "population": 760
+  },
+  {
+    "nom": "Hordain",
+    "code": "59313",
+    "codeDepartement": "59",
+    "siren": "215903139",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59111"
+    ],
+    "population": 1423
+  },
+  {
+    "nom": "Hornaing",
+    "code": "59314",
+    "codeDepartement": "59",
+    "siren": "215903147",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59171"
+    ],
+    "population": 3562
+  },
+  {
+    "nom": "Houdain-lez-Bavay",
+    "code": "59315",
+    "codeDepartement": "59",
+    "siren": "215903154",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 886
+  },
+  {
+    "nom": "Houplin-Ancoisne",
+    "code": "59316",
+    "codeDepartement": "59",
+    "siren": "215903162",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59263"
+    ],
+    "population": 3337
+  },
+  {
+    "nom": "Houplines",
+    "code": "59317",
+    "codeDepartement": "59",
+    "siren": "215903170",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59116"
+    ],
+    "population": 7782
+  },
+  {
+    "nom": "Houtkerque",
+    "code": "59318",
+    "codeDepartement": "59",
+    "siren": "215903188",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 984
+  },
+  {
+    "nom": "Hoymille",
+    "code": "59319",
+    "codeDepartement": "59",
+    "siren": "215903196",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59492"
+    ],
+    "population": 3194
+  },
+  {
+    "nom": "Illies",
+    "code": "59320",
+    "codeDepartement": "59",
+    "siren": "215903204",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59480"
+    ],
+    "population": 1635
+  },
+  {
+    "nom": "Inchy",
+    "code": "59321",
+    "codeDepartement": "59",
+    "siren": "215903212",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59540"
+    ],
+    "population": 676
+  },
+  {
+    "nom": "Iwuy",
+    "code": "59322",
+    "codeDepartement": "59",
+    "siren": "215903220",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59141"
+    ],
+    "population": 3371
+  },
+  {
+    "nom": "Jenlain",
+    "code": "59323",
+    "codeDepartement": "59",
+    "siren": "215903238",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 1145
+  },
+  {
+    "nom": "Jeumont",
+    "code": "59324",
+    "codeDepartement": "59",
+    "siren": "215903246",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59460"
+    ],
+    "population": 10344
+  },
+  {
+    "nom": "Jolimetz",
+    "code": "59325",
+    "codeDepartement": "59",
+    "siren": "215903253",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 854
+  },
+  {
+    "nom": "Killem",
+    "code": "59326",
+    "codeDepartement": "59",
+    "siren": "215903261",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59122"
+    ],
+    "population": 1163
+  },
+  {
+    "nom": "Lallaing",
+    "code": "59327",
+    "codeDepartement": "59",
+    "siren": "215903279",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59167"
+    ],
+    "population": 6364
+  },
+  {
+    "nom": "Lambersart",
+    "code": "59328",
+    "codeDepartement": "59",
+    "siren": "215903287",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59130"
+    ],
+    "population": 27400
+  },
+  {
+    "nom": "Lambres-lez-Douai",
+    "code": "59329",
+    "codeDepartement": "59",
+    "siren": "215903295",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59552"
+    ],
+    "population": 5007
+  },
+  {
+    "nom": "Landas",
+    "code": "59330",
+    "codeDepartement": "59",
+    "siren": "215903303",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 2392
+  },
+  {
+    "nom": "Landrecies",
+    "code": "59331",
+    "codeDepartement": "59",
+    "siren": "215903311",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 3482
+  },
+  {
+    "nom": "Lannoy",
+    "code": "59332",
+    "codeDepartement": "59",
+    "siren": "215903329",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59390"
+    ],
+    "population": 1819
+  },
+  {
+    "nom": "Larouillies",
+    "code": "59333",
+    "codeDepartement": "59",
+    "siren": "215903337",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59219"
+    ],
+    "population": 249
+  },
+  {
+    "nom": "Lauwin-Planque",
+    "code": "59334",
+    "codeDepartement": "59",
+    "siren": "215903345",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59553"
+    ],
+    "population": 1621
+  },
+  {
+    "nom": "Lecelles",
+    "code": "59335",
+    "codeDepartement": "59",
+    "siren": "215903352",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59226"
+    ],
+    "population": 2847
+  },
+  {
+    "nom": "Lécluse",
+    "code": "59336",
+    "codeDepartement": "59",
+    "siren": "215903360",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59259"
+    ],
+    "population": 1372
+  },
+  {
+    "nom": "Lederzeele",
+    "code": "59337",
+    "codeDepartement": "59",
+    "siren": "215903378",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 683
+  },
+  {
+    "nom": "Ledringhem",
+    "code": "59338",
+    "codeDepartement": "59",
+    "siren": "215903386",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 651
+  },
+  {
+    "nom": "Leers",
+    "code": "59339",
+    "codeDepartement": "59",
+    "siren": "215903394",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59115"
+    ],
+    "population": 9378
+  },
+  {
+    "nom": "Leffrinckoucke",
+    "code": "59340",
+    "codeDepartement": "59",
+    "siren": "215903402",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59495"
+    ],
+    "population": 4207
+  },
+  {
+    "nom": "Lesdain",
+    "code": "59341",
+    "codeDepartement": "59",
+    "siren": "215903410",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59258"
+    ],
+    "population": 435
+  },
+  {
+    "nom": "Lez-Fontaine",
+    "code": "59342",
+    "codeDepartement": "59",
+    "siren": "215903428",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 225
+  },
+  {
+    "nom": "Lesquin",
+    "code": "59343",
+    "codeDepartement": "59",
+    "siren": "215903436",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59810"
+    ],
+    "population": 9012
+  },
+  {
+    "nom": "Leval",
+    "code": "59344",
+    "codeDepartement": "59",
+    "siren": "215903444",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59620"
+    ],
+    "population": 2516
+  },
+  {
+    "nom": "Lewarde",
+    "code": "59345",
+    "codeDepartement": "59",
+    "siren": "215903451",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59287"
+    ],
+    "population": 2430
+  },
+  {
+    "nom": "Lezennes",
+    "code": "59346",
+    "codeDepartement": "59",
+    "siren": "215903469",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59260"
+    ],
+    "population": 3050
+  },
+  {
+    "nom": "Liessies",
+    "code": "59347",
+    "codeDepartement": "59",
+    "siren": "215903477",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 537
+  },
+  {
+    "nom": "Lieu-Saint-Amand",
+    "code": "59348",
+    "codeDepartement": "59",
+    "siren": "215903485",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59111"
+    ],
+    "population": 1426
+  },
+  {
+    "nom": "Ligny-en-Cambrésis",
+    "code": "59349",
+    "codeDepartement": "59",
+    "siren": "215903493",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59191"
+    ],
+    "population": 1916
+  },
+  {
+    "nom": "Lille",
+    "code": "59350",
+    "codeDepartement": "59",
+    "siren": "215903501",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59000",
+      "59800",
+      "59260",
+      "59777",
+      "59160"
+    ],
+    "population": 234475
+  },
+  {
+    "nom": "Limont-Fontaine",
+    "code": "59351",
+    "codeDepartement": "59",
+    "siren": "215903519",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 550
+  },
+  {
+    "nom": "Linselles",
+    "code": "59352",
+    "codeDepartement": "59",
+    "siren": "215903527",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59126"
+    ],
+    "population": 8275
+  },
+  {
+    "nom": "Locquignol",
+    "code": "59353",
+    "codeDepartement": "59",
+    "siren": "215903535",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 326
+  },
+  {
+    "nom": "Loffre",
+    "code": "59354",
+    "codeDepartement": "59",
+    "siren": "215903543",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59182"
+    ],
+    "population": 714
+  },
+  {
+    "nom": "Lompret",
+    "code": "59356",
+    "codeDepartement": "59",
+    "siren": "215903568",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59840"
+    ],
+    "population": 2230
+  },
+  {
+    "nom": "La Longueville",
+    "code": "59357",
+    "codeDepartement": "59",
+    "siren": "215903576",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 2082
+  },
+  {
+    "nom": "Looberghe",
+    "code": "59358",
+    "codeDepartement": "59",
+    "siren": "215903584",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59630"
+    ],
+    "population": 1190
+  },
+  {
+    "nom": "Loon-Plage",
+    "code": "59359",
+    "codeDepartement": "59",
+    "siren": "215903592",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59279"
+    ],
+    "population": 6085
+  },
+  {
+    "nom": "Loos",
+    "code": "59360",
+    "codeDepartement": "59",
+    "siren": "215903600",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59120"
+    ],
+    "population": 22866
+  },
+  {
+    "nom": "Lourches",
+    "code": "59361",
+    "codeDepartement": "59",
+    "siren": "215903618",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59156"
+    ],
+    "population": 3952
+  },
+  {
+    "nom": "Louvignies-Quesnoy",
+    "code": "59363",
+    "codeDepartement": "59",
+    "siren": "215903634",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 931
+  },
+  {
+    "nom": "Louvil",
+    "code": "59364",
+    "codeDepartement": "59",
+    "siren": "215903642",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 869
+  },
+  {
+    "nom": "Louvroil",
+    "code": "59365",
+    "codeDepartement": "59",
+    "siren": "215903659",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59720"
+    ],
+    "population": 6371
+  },
+  {
+    "nom": "Lynde",
+    "code": "59366",
+    "codeDepartement": "59",
+    "siren": "215903667",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59173"
+    ],
+    "population": 775
+  },
+  {
+    "nom": "Lys-lez-Lannoy",
+    "code": "59367",
+    "codeDepartement": "59",
+    "siren": "215903675",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59390"
+    ],
+    "population": 13643
+  },
+  {
+    "nom": "La Madeleine",
+    "code": "59368",
+    "codeDepartement": "59",
+    "siren": "215903683",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59110"
+    ],
+    "population": 21856
+  },
+  {
+    "nom": "Maing",
+    "code": "59369",
+    "codeDepartement": "59",
+    "siren": "215903691",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59233"
+    ],
+    "population": 4066
+  },
+  {
+    "nom": "Mairieux",
+    "code": "59370",
+    "codeDepartement": "59",
+    "siren": "215903709",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 711
+  },
+  {
+    "nom": "Le Maisnil",
+    "code": "59371",
+    "codeDepartement": "59",
+    "siren": "215903717",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59134"
+    ],
+    "population": 639
+  },
+  {
+    "nom": "Malincourt",
+    "code": "59372",
+    "codeDepartement": "59",
+    "siren": "215903725",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59127"
+    ],
+    "population": 489
+  },
+  {
+    "nom": "Marbaix",
+    "code": "59374",
+    "codeDepartement": "59",
+    "siren": "215903741",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 473
+  },
+  {
+    "nom": "Marchiennes",
+    "code": "59375",
+    "codeDepartement": "59",
+    "siren": "215903758",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 4584
+  },
+  {
+    "nom": "Marcoing",
+    "code": "59377",
+    "codeDepartement": "59",
+    "siren": "215903774",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59159"
+    ],
+    "population": 1900
+  },
+  {
+    "nom": "Marcq-en-Barœul",
+    "code": "59378",
+    "codeDepartement": "59",
+    "siren": "215903782",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59700"
+    ],
+    "population": 38486
+  },
+  {
+    "nom": "Marcq-en-Ostrevent",
+    "code": "59379",
+    "codeDepartement": "59",
+    "siren": "215903790",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59252"
+    ],
+    "population": 748
+  },
+  {
+    "nom": "Maresches",
+    "code": "59381",
+    "codeDepartement": "59",
+    "siren": "215903816",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 812
+  },
+  {
+    "nom": "Maretz",
+    "code": "59382",
+    "codeDepartement": "59",
+    "siren": "215903824",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59238"
+    ],
+    "population": 1444
+  },
+  {
+    "nom": "Marly",
+    "code": "59383",
+    "codeDepartement": "59",
+    "siren": "215903832",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59770"
+    ],
+    "population": 12083
+  },
+  {
+    "nom": "Maroilles",
+    "code": "59384",
+    "codeDepartement": "59",
+    "siren": "215903840",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 1428
+  },
+  {
+    "nom": "Marpent",
+    "code": "59385",
+    "codeDepartement": "59",
+    "siren": "215903857",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59164"
+    ],
+    "population": 2701
+  },
+  {
+    "nom": "Marquette-lez-Lille",
+    "code": "59386",
+    "codeDepartement": "59",
+    "siren": "215903865",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59520"
+    ],
+    "population": 10798
+  },
+  {
+    "nom": "Marquette-en-Ostrevant",
+    "code": "59387",
+    "codeDepartement": "59",
+    "siren": "215903873",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59252"
+    ],
+    "population": 1897
+  },
+  {
+    "nom": "Marquillies",
+    "code": "59388",
+    "codeDepartement": "59",
+    "siren": "215903881",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59274"
+    ],
+    "population": 1998
+  },
+  {
+    "nom": "Masnières",
+    "code": "59389",
+    "codeDepartement": "59",
+    "siren": "215903899",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59241"
+    ],
+    "population": 2745
+  },
+  {
+    "nom": "Masny",
+    "code": "59390",
+    "codeDepartement": "59",
+    "siren": "215903907",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59176"
+    ],
+    "population": 4109
+  },
+  {
+    "nom": "Mastaing",
+    "code": "59391",
+    "codeDepartement": "59",
+    "siren": "215903915",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59172"
+    ],
+    "population": 881
+  },
+  {
+    "nom": "Maubeuge",
+    "code": "59392",
+    "codeDepartement": "59",
+    "siren": "215903923",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 29589
+  },
+  {
+    "nom": "Maulde",
+    "code": "59393",
+    "codeDepartement": "59",
+    "siren": "215903931",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59158"
+    ],
+    "population": 1033
+  },
+  {
+    "nom": "Maurois",
+    "code": "59394",
+    "codeDepartement": "59",
+    "siren": "215903949",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59980"
+    ],
+    "population": 403
+  },
+  {
+    "nom": "Mazinghien",
+    "code": "59395",
+    "codeDepartement": "59",
+    "siren": "215903956",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 305
+  },
+  {
+    "nom": "Mecquignies",
+    "code": "59396",
+    "codeDepartement": "59",
+    "siren": "215903964",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 720
+  },
+  {
+    "nom": "Merckeghem",
+    "code": "59397",
+    "codeDepartement": "59",
+    "siren": "215903972",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 606
+  },
+  {
+    "nom": "Mérignies",
+    "code": "59398",
+    "codeDepartement": "59",
+    "siren": "215903980",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59710"
+    ],
+    "population": 3199
+  },
+  {
+    "nom": "Merris",
+    "code": "59399",
+    "codeDepartement": "59",
+    "siren": "215903998",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 1011
+  },
+  {
+    "nom": "Merville",
+    "code": "59400",
+    "codeDepartement": "59",
+    "siren": "215904004",
+    "codeEpci": "245900758",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59660"
+    ],
+    "population": 9641
+  },
+  {
+    "nom": "Méteren",
+    "code": "59401",
+    "codeDepartement": "59",
+    "siren": "215904012",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 2307
+  },
+  {
+    "nom": "Millam",
+    "code": "59402",
+    "codeDepartement": "59",
+    "siren": "215904020",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 837
+  },
+  {
+    "nom": "Millonfosse",
+    "code": "59403",
+    "codeDepartement": "59",
+    "siren": "215904038",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59178"
+    ],
+    "population": 718
+  },
+  {
+    "nom": "Mœuvres",
+    "code": "59405",
+    "codeDepartement": "59",
+    "siren": "215904053",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 481
+  },
+  {
+    "nom": "Monceau-Saint-Waast",
+    "code": "59406",
+    "codeDepartement": "59",
+    "siren": "215904061",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59620"
+    ],
+    "population": 455
+  },
+  {
+    "nom": "Monchaux-sur-Écaillon",
+    "code": "59407",
+    "codeDepartement": "59",
+    "siren": "215904079",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59224"
+    ],
+    "population": 538
+  },
+  {
+    "nom": "Moncheaux",
+    "code": "59408",
+    "codeDepartement": "59",
+    "siren": "215904087",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59283"
+    ],
+    "population": 1632
+  },
+  {
+    "nom": "Monchecourt",
+    "code": "59409",
+    "codeDepartement": "59",
+    "siren": "215904095",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59234"
+    ],
+    "population": 2521
+  },
+  {
+    "nom": "Mons-en-Barœul",
+    "code": "59410",
+    "codeDepartement": "59",
+    "siren": "215904103",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59370"
+    ],
+    "population": 21277
+  },
+  {
+    "nom": "Mons-en-Pévèle",
+    "code": "59411",
+    "codeDepartement": "59",
+    "siren": "215904111",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59246"
+    ],
+    "population": 2115
+  },
+  {
+    "nom": "Montay",
+    "code": "59412",
+    "codeDepartement": "59",
+    "siren": "215904129",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 276
+  },
+  {
+    "nom": "Montigny-en-Cambrésis",
+    "code": "59413",
+    "codeDepartement": "59",
+    "siren": "215904137",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59225"
+    ],
+    "population": 557
+  },
+  {
+    "nom": "Montigny-en-Ostrevent",
+    "code": "59414",
+    "codeDepartement": "59",
+    "siren": "215904145",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59182"
+    ],
+    "population": 4793
+  },
+  {
+    "nom": "Montrécourt",
+    "code": "59415",
+    "codeDepartement": "59",
+    "siren": "215904152",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59227"
+    ],
+    "population": 224
+  },
+  {
+    "nom": "Morbecque",
+    "code": "59416",
+    "codeDepartement": "59",
+    "siren": "215904160",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 2524
+  },
+  {
+    "nom": "Mortagne-du-Nord",
+    "code": "59418",
+    "codeDepartement": "59",
+    "siren": "215904186",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59158"
+    ],
+    "population": 1595
+  },
+  {
+    "nom": "Mouchin",
+    "code": "59419",
+    "codeDepartement": "59",
+    "siren": "215904194",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 1408
+  },
+  {
+    "nom": "Moustier-en-Fagne",
+    "code": "59420",
+    "codeDepartement": "59",
+    "siren": "215904202",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 58
+  },
+  {
+    "nom": "Mouvaux",
+    "code": "59421",
+    "codeDepartement": "59",
+    "siren": "215904210",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59420"
+    ],
+    "population": 13121
+  },
+  {
+    "nom": "Naves",
+    "code": "59422",
+    "codeDepartement": "59",
+    "siren": "215904228",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59161"
+    ],
+    "population": 630
+  },
+  {
+    "nom": "Neuf-Berquin",
+    "code": "59423",
+    "codeDepartement": "59",
+    "siren": "215904236",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59940"
+    ],
+    "population": 1263
+  },
+  {
+    "nom": "Neuf-Mesnil",
+    "code": "59424",
+    "codeDepartement": "59",
+    "siren": "215904244",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 1309
+  },
+  {
+    "nom": "Neuville-en-Avesnois",
+    "code": "59425",
+    "codeDepartement": "59",
+    "siren": "215904251",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59218"
+    ],
+    "population": 302
+  },
+  {
+    "nom": "Neuville-en-Ferrain",
+    "code": "59426",
+    "codeDepartement": "59",
+    "siren": "215904269",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59960"
+    ],
+    "population": 10264
+  },
+  {
+    "nom": "La Neuville",
+    "code": "59427",
+    "codeDepartement": "59",
+    "siren": "215904277",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59239"
+    ],
+    "population": 640
+  },
+  {
+    "nom": "Neuville-Saint-Rémy",
+    "code": "59428",
+    "codeDepartement": "59",
+    "siren": "215904285",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59554"
+    ],
+    "population": 3782
+  },
+  {
+    "nom": "Neuville-sur-Escaut",
+    "code": "59429",
+    "codeDepartement": "59",
+    "siren": "215904293",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59293"
+    ],
+    "population": 2688
+  },
+  {
+    "nom": "Neuvilly",
+    "code": "59430",
+    "codeDepartement": "59",
+    "siren": "215904301",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 1088
+  },
+  {
+    "nom": "Nieppe",
+    "code": "59431",
+    "codeDepartement": "59",
+    "siren": "215904319",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59850"
+    ],
+    "population": 7512
+  },
+  {
+    "nom": "Niergnies",
+    "code": "59432",
+    "codeDepartement": "59",
+    "siren": "215904327",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 514
+  },
+  {
+    "nom": "Nieurlet",
+    "code": "59433",
+    "codeDepartement": "59",
+    "siren": "215904335",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 917
+  },
+  {
+    "nom": "Nivelle",
+    "code": "59434",
+    "codeDepartement": "59",
+    "siren": "215904343",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59230"
+    ],
+    "population": 1351
+  },
+  {
+    "nom": "Nomain",
+    "code": "59435",
+    "codeDepartement": "59",
+    "siren": "215904350",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 2549
+  },
+  {
+    "nom": "Noordpeene",
+    "code": "59436",
+    "codeDepartement": "59",
+    "siren": "215904368",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 788
+  },
+  {
+    "nom": "Noyelles-lès-Seclin",
+    "code": "59437",
+    "codeDepartement": "59",
+    "siren": "215904376",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59139"
+    ],
+    "population": 858
+  },
+  {
+    "nom": "Noyelles-sur-Escaut",
+    "code": "59438",
+    "codeDepartement": "59",
+    "siren": "215904384",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59159"
+    ],
+    "population": 811
+  },
+  {
+    "nom": "Noyelles-sur-Sambre",
+    "code": "59439",
+    "codeDepartement": "59",
+    "siren": "215904392",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 271
+  },
+  {
+    "nom": "Noyelles-sur-Selle",
+    "code": "59440",
+    "codeDepartement": "59",
+    "siren": "215904400",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59282"
+    ],
+    "population": 697
+  },
+  {
+    "nom": "Obies",
+    "code": "59441",
+    "codeDepartement": "59",
+    "siren": "215904418",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 660
+  },
+  {
+    "nom": "Obrechies",
+    "code": "59442",
+    "codeDepartement": "59",
+    "siren": "215904426",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 269
+  },
+  {
+    "nom": "Ochtezeele",
+    "code": "59443",
+    "codeDepartement": "59",
+    "siren": "215904434",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 385
+  },
+  {
+    "nom": "Odomez",
+    "code": "59444",
+    "codeDepartement": "59",
+    "siren": "215904442",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59970"
+    ],
+    "population": 924
+  },
+  {
+    "nom": "Ohain",
+    "code": "59445",
+    "codeDepartement": "59",
+    "siren": "215904459",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 1189
+  },
+  {
+    "nom": "Oisy",
+    "code": "59446",
+    "codeDepartement": "59",
+    "siren": "215904467",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59195"
+    ],
+    "population": 649
+  },
+  {
+    "nom": "Onnaing",
+    "code": "59447",
+    "codeDepartement": "59",
+    "siren": "215904475",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59264"
+    ],
+    "population": 8789
+  },
+  {
+    "nom": "Oost-Cappel",
+    "code": "59448",
+    "codeDepartement": "59",
+    "siren": "215904483",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59122"
+    ],
+    "population": 471
+  },
+  {
+    "nom": "Orchies",
+    "code": "59449",
+    "codeDepartement": "59",
+    "siren": "215904491",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 8633
+  },
+  {
+    "nom": "Ors",
+    "code": "59450",
+    "codeDepartement": "59",
+    "siren": "215904509",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 640
+  },
+  {
+    "nom": "Orsinval",
+    "code": "59451",
+    "codeDepartement": "59",
+    "siren": "215904517",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 553
+  },
+  {
+    "nom": "Ostricourt",
+    "code": "59452",
+    "codeDepartement": "59",
+    "siren": "215904525",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59162"
+    ],
+    "population": 5454
+  },
+  {
+    "nom": "Oudezeele",
+    "code": "59453",
+    "codeDepartement": "59",
+    "siren": "215904533",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 677
+  },
+  {
+    "nom": "Oxelaëre",
+    "code": "59454",
+    "codeDepartement": "59",
+    "siren": "215904541",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 517
+  },
+  {
+    "nom": "Paillencourt",
+    "code": "59455",
+    "codeDepartement": "59",
+    "siren": "215904558",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59295"
+    ],
+    "population": 1009
+  },
+  {
+    "nom": "Pecquencourt",
+    "code": "59456",
+    "codeDepartement": "59",
+    "siren": "215904566",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59146"
+    ],
+    "population": 6088
+  },
+  {
+    "nom": "Pérenchies",
+    "code": "59457",
+    "codeDepartement": "59",
+    "siren": "215904574",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59840"
+    ],
+    "population": 8542
+  },
+  {
+    "nom": "Péronne-en-Mélantois",
+    "code": "59458",
+    "codeDepartement": "59",
+    "siren": "215904582",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59273"
+    ],
+    "population": 918
+  },
+  {
+    "nom": "Petite-Forêt",
+    "code": "59459",
+    "codeDepartement": "59",
+    "siren": "215904590",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59494"
+    ],
+    "population": 4887
+  },
+  {
+    "nom": "Petit-Fayt",
+    "code": "59461",
+    "codeDepartement": "59",
+    "siren": "215904616",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59244"
+    ],
+    "population": 310
+  },
+  {
+    "nom": "Phalempin",
+    "code": "59462",
+    "codeDepartement": "59",
+    "siren": "215904624",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59133"
+    ],
+    "population": 4820
+  },
+  {
+    "nom": "Pitgam",
+    "code": "59463",
+    "codeDepartement": "59",
+    "siren": "215904632",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59284"
+    ],
+    "population": 973
+  },
+  {
+    "nom": "Poix-du-Nord",
+    "code": "59464",
+    "codeDepartement": "59",
+    "siren": "215904640",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59218"
+    ],
+    "population": 2222
+  },
+  {
+    "nom": "Pommereuil",
+    "code": "59465",
+    "codeDepartement": "59",
+    "siren": "215904657",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 776
+  },
+  {
+    "nom": "Pont-à-Marcq",
+    "code": "59466",
+    "codeDepartement": "59",
+    "siren": "215904665",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59710"
+    ],
+    "population": 2911
+  },
+  {
+    "nom": "Pont-sur-Sambre",
+    "code": "59467",
+    "codeDepartement": "59",
+    "siren": "215904673",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59138"
+    ],
+    "population": 2469
+  },
+  {
+    "nom": "Potelle",
+    "code": "59468",
+    "codeDepartement": "59",
+    "siren": "215904681",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 425
+  },
+  {
+    "nom": "Pradelles",
+    "code": "59469",
+    "codeDepartement": "59",
+    "siren": "215904699",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 412
+  },
+  {
+    "nom": "Prémesques",
+    "code": "59470",
+    "codeDepartement": "59",
+    "siren": "215904707",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59840"
+    ],
+    "population": 2123
+  },
+  {
+    "nom": "Préseau",
+    "code": "59471",
+    "codeDepartement": "59",
+    "siren": "215904715",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 1993
+  },
+  {
+    "nom": "Preux-au-Bois",
+    "code": "59472",
+    "codeDepartement": "59",
+    "siren": "215904723",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59288"
+    ],
+    "population": 837
+  },
+  {
+    "nom": "Preux-au-Sart",
+    "code": "59473",
+    "codeDepartement": "59",
+    "siren": "215904731",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 309
+  },
+  {
+    "nom": "Prisches",
+    "code": "59474",
+    "codeDepartement": "59",
+    "siren": "215904749",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 1036
+  },
+  {
+    "nom": "Prouvy",
+    "code": "59475",
+    "codeDepartement": "59",
+    "siren": "215904756",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59121"
+    ],
+    "population": 2220
+  },
+  {
+    "nom": "Proville",
+    "code": "59476",
+    "codeDepartement": "59",
+    "siren": "215904764",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59267"
+    ],
+    "population": 3124
+  },
+  {
+    "nom": "Provin",
+    "code": "59477",
+    "codeDepartement": "59",
+    "siren": "215904772",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59185"
+    ],
+    "population": 4403
+  },
+  {
+    "nom": "Quaëdypre",
+    "code": "59478",
+    "codeDepartement": "59",
+    "siren": "215904780",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 1129
+  },
+  {
+    "nom": "Quarouble",
+    "code": "59479",
+    "codeDepartement": "59",
+    "siren": "215904798",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59243"
+    ],
+    "population": 3077
+  },
+  {
+    "nom": "Quérénaing",
+    "code": "59480",
+    "codeDepartement": "59",
+    "siren": "215904806",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59269"
+    ],
+    "population": 870
+  },
+  {
+    "nom": "Le Quesnoy",
+    "code": "59481",
+    "codeDepartement": "59",
+    "siren": "215904814",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 4870
+  },
+  {
+    "nom": "Quesnoy-sur-Deûle",
+    "code": "59482",
+    "codeDepartement": "59",
+    "siren": "215904822",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59890"
+    ],
+    "population": 6931
+  },
+  {
+    "nom": "Quiévelon",
+    "code": "59483",
+    "codeDepartement": "59",
+    "siren": "215904830",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 136
+  },
+  {
+    "nom": "Quiévrechain",
+    "code": "59484",
+    "codeDepartement": "59",
+    "siren": "215904848",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59920"
+    ],
+    "population": 6362
+  },
+  {
+    "nom": "Quiévy",
+    "code": "59485",
+    "codeDepartement": "59",
+    "siren": "215904855",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59214"
+    ],
+    "population": 1802
+  },
+  {
+    "nom": "Râches",
+    "code": "59486",
+    "codeDepartement": "59",
+    "siren": "215904863",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59194"
+    ],
+    "population": 2701
+  },
+  {
+    "nom": "Radinghem-en-Weppes",
+    "code": "59487",
+    "codeDepartement": "59",
+    "siren": "215904871",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 1401
+  },
+  {
+    "nom": "Raillencourt-Sainte-Olle",
+    "code": "59488",
+    "codeDepartement": "59",
+    "siren": "215904889",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59554"
+    ],
+    "population": 2179
+  },
+  {
+    "nom": "Raimbeaucourt",
+    "code": "59489",
+    "codeDepartement": "59",
+    "siren": "215904897",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59283"
+    ],
+    "population": 4008
+  },
+  {
+    "nom": "Rainsars",
+    "code": "59490",
+    "codeDepartement": "59",
+    "siren": "215904905",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59177"
+    ],
+    "population": 177
+  },
+  {
+    "nom": "Raismes",
+    "code": "59491",
+    "codeDepartement": "59",
+    "siren": "215904913",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59590"
+    ],
+    "population": 12324
+  },
+  {
+    "nom": "Ramillies",
+    "code": "59492",
+    "codeDepartement": "59",
+    "siren": "215904921",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59161"
+    ],
+    "population": 602
+  },
+  {
+    "nom": "Ramousies",
+    "code": "59493",
+    "codeDepartement": "59",
+    "siren": "215904939",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59177"
+    ],
+    "population": 228
+  },
+  {
+    "nom": "Raucourt-au-Bois",
+    "code": "59494",
+    "codeDepartement": "59",
+    "siren": "215904947",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 162
+  },
+  {
+    "nom": "Recquignies",
+    "code": "59495",
+    "codeDepartement": "59",
+    "siren": "215904954",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59245"
+    ],
+    "population": 2446
+  },
+  {
+    "nom": "Rejet-de-Beaulieu",
+    "code": "59496",
+    "codeDepartement": "59",
+    "siren": "215904962",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 242
+  },
+  {
+    "nom": "Renescure",
+    "code": "59497",
+    "codeDepartement": "59",
+    "siren": "215904970",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59173"
+    ],
+    "population": 2120
+  },
+  {
+    "nom": "Reumont",
+    "code": "59498",
+    "codeDepartement": "59",
+    "siren": "215904988",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59980"
+    ],
+    "population": 352
+  },
+  {
+    "nom": "Rexpoëde",
+    "code": "59499",
+    "codeDepartement": "59",
+    "siren": "215904996",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59122"
+    ],
+    "population": 1977
+  },
+  {
+    "nom": "Ribécourt-la-Tour",
+    "code": "59500",
+    "codeDepartement": "59",
+    "siren": "215905001",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59159"
+    ],
+    "population": 373
+  },
+  {
+    "nom": "Rieulay",
+    "code": "59501",
+    "codeDepartement": "59",
+    "siren": "215905019",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 1261
+  },
+  {
+    "nom": "Rieux-en-Cambrésis",
+    "code": "59502",
+    "codeDepartement": "59",
+    "siren": "215905027",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59277"
+    ],
+    "population": 1432
+  },
+  {
+    "nom": "Robersart",
+    "code": "59503",
+    "codeDepartement": "59",
+    "siren": "215905035",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 198
+  },
+  {
+    "nom": "Rœulx",
+    "code": "59504",
+    "codeDepartement": "59",
+    "siren": "215905043",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59172"
+    ],
+    "population": 3807
+  },
+  {
+    "nom": "Rombies-et-Marchipont",
+    "code": "59505",
+    "codeDepartement": "59",
+    "siren": "215905050",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 760
+  },
+  {
+    "nom": "Romeries",
+    "code": "59506",
+    "codeDepartement": "59",
+    "siren": "215905068",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59730"
+    ],
+    "population": 469
+  },
+  {
+    "nom": "Ronchin",
+    "code": "59507",
+    "codeDepartement": "59",
+    "siren": "215905076",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59790"
+    ],
+    "population": 19294
+  },
+  {
+    "nom": "Roncq",
+    "code": "59508",
+    "codeDepartement": "59",
+    "siren": "215905084",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59223"
+    ],
+    "population": 13482
+  },
+  {
+    "nom": "Roost-Warendin",
+    "code": "59509",
+    "codeDepartement": "59",
+    "siren": "215905092",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59286"
+    ],
+    "population": 6037
+  },
+  {
+    "nom": "Rosult",
+    "code": "59511",
+    "codeDepartement": "59",
+    "siren": "215905118",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59230"
+    ],
+    "population": 1931
+  },
+  {
+    "nom": "Roubaix",
+    "code": "59512",
+    "codeDepartement": "59",
+    "siren": "215905126",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59100"
+    ],
+    "population": 98828
+  },
+  {
+    "nom": "Roucourt",
+    "code": "59513",
+    "codeDepartement": "59",
+    "siren": "215905134",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59169"
+    ],
+    "population": 456
+  },
+  {
+    "nom": "Rousies",
+    "code": "59514",
+    "codeDepartement": "59",
+    "siren": "215905142",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59131"
+    ],
+    "population": 4072
+  },
+  {
+    "nom": "Rouvignies",
+    "code": "59515",
+    "codeDepartement": "59",
+    "siren": "215905159",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59220"
+    ],
+    "population": 655
+  },
+  {
+    "nom": "Rubrouck",
+    "code": "59516",
+    "codeDepartement": "59",
+    "siren": "215905167",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59285"
+    ],
+    "population": 928
+  },
+  {
+    "nom": "Les Rues-des-Vignes",
+    "code": "59517",
+    "codeDepartement": "59",
+    "siren": "215905175",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59258"
+    ],
+    "population": 771
+  },
+  {
+    "nom": "Ruesnes",
+    "code": "59518",
+    "codeDepartement": "59",
+    "siren": "215905183",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 459
+  },
+  {
+    "nom": "Rumegies",
+    "code": "59519",
+    "codeDepartement": "59",
+    "siren": "215905191",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59226"
+    ],
+    "population": 1758
+  },
+  {
+    "nom": "Rumilly-en-Cambrésis",
+    "code": "59520",
+    "codeDepartement": "59",
+    "siren": "215905209",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59281"
+    ],
+    "population": 1436
+  },
+  {
+    "nom": "Sailly-lez-Cambrai",
+    "code": "59521",
+    "codeDepartement": "59",
+    "siren": "215905217",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59554"
+    ],
+    "population": 443
+  },
+  {
+    "nom": "Sailly-lez-Lannoy",
+    "code": "59522",
+    "codeDepartement": "59",
+    "siren": "215905225",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59390"
+    ],
+    "population": 1937
+  },
+  {
+    "nom": "Sainghin-en-Mélantois",
+    "code": "59523",
+    "codeDepartement": "59",
+    "siren": "215905233",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59262"
+    ],
+    "population": 2830
+  },
+  {
+    "nom": "Sainghin-en-Weppes",
+    "code": "59524",
+    "codeDepartement": "59",
+    "siren": "215905241",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59184"
+    ],
+    "population": 5481
+  },
+  {
+    "nom": "Sains-du-Nord",
+    "code": "59525",
+    "codeDepartement": "59",
+    "siren": "215905258",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59177"
+    ],
+    "population": 2799
+  },
+  {
+    "nom": "Saint-Amand-les-Eaux",
+    "code": "59526",
+    "codeDepartement": "59",
+    "siren": "215905266",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59230"
+    ],
+    "population": 15870
+  },
+  {
+    "nom": "Saint-André-lez-Lille",
+    "code": "59527",
+    "codeDepartement": "59",
+    "siren": "215905274",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59350"
+    ],
+    "population": 13151
+  },
+  {
+    "nom": "Saint-Aubert",
+    "code": "59528",
+    "codeDepartement": "59",
+    "siren": "215905282",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59188"
+    ],
+    "population": 1565
+  },
+  {
+    "nom": "Saint-Aubin",
+    "code": "59529",
+    "codeDepartement": "59",
+    "siren": "215905290",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 354
+  },
+  {
+    "nom": "Saint-Aybert",
+    "code": "59530",
+    "codeDepartement": "59",
+    "siren": "215905308",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59163"
+    ],
+    "population": 348
+  },
+  {
+    "nom": "Saint-Benin",
+    "code": "59531",
+    "codeDepartement": "59",
+    "siren": "215905316",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 340
+  },
+  {
+    "nom": "Saint-Georges-sur-l'Aa",
+    "code": "59532",
+    "codeDepartement": "59",
+    "siren": "215905324",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59820"
+    ],
+    "population": 309
+  },
+  {
+    "nom": "Saint-Hilaire-lez-Cambrai",
+    "code": "59533",
+    "codeDepartement": "59",
+    "siren": "215905332",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59292"
+    ],
+    "population": 1566
+  },
+  {
+    "nom": "Saint-Hilaire-sur-Helpe",
+    "code": "59534",
+    "codeDepartement": "59",
+    "siren": "215905340",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 827
+  },
+  {
+    "nom": "Saint-Jans-Cappel",
+    "code": "59535",
+    "codeDepartement": "59",
+    "siren": "215905357",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 1706
+  },
+  {
+    "nom": "Sainte-Marie-Cappel",
+    "code": "59536",
+    "codeDepartement": "59",
+    "siren": "215905365",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 902
+  },
+  {
+    "nom": "Saint-Martin-sur-Écaillon",
+    "code": "59537",
+    "codeDepartement": "59",
+    "siren": "215905373",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59213"
+    ],
+    "population": 506
+  },
+  {
+    "nom": "Saint-Momelin",
+    "code": "59538",
+    "codeDepartement": "59",
+    "siren": "215905381",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 425
+  },
+  {
+    "nom": "Saint-Pierre-Brouck",
+    "code": "59539",
+    "codeDepartement": "59",
+    "siren": "215905399",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59630"
+    ],
+    "population": 985
+  },
+  {
+    "nom": "Saint-Python",
+    "code": "59541",
+    "codeDepartement": "59",
+    "siren": "215905415",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59730"
+    ],
+    "population": 1027
+  },
+  {
+    "nom": "Saint-Remy-Chaussée",
+    "code": "59542",
+    "codeDepartement": "59",
+    "siren": "215905423",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59620"
+    ],
+    "population": 511
+  },
+  {
+    "nom": "Saint-Remy-du-Nord",
+    "code": "59543",
+    "codeDepartement": "59",
+    "siren": "215905431",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59330"
+    ],
+    "population": 1095
+  },
+  {
+    "nom": "Saint-Saulve",
+    "code": "59544",
+    "codeDepartement": "59",
+    "siren": "215905449",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59880"
+    ],
+    "population": 11276
+  },
+  {
+    "nom": "Saint-Souplet",
+    "code": "59545",
+    "codeDepartement": "59",
+    "siren": "215905456",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59360"
+    ],
+    "population": 1216
+  },
+  {
+    "nom": "Saint-Sylvestre-Cappel",
+    "code": "59546",
+    "codeDepartement": "59",
+    "siren": "215905464",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59114"
+    ],
+    "population": 1160
+  },
+  {
+    "nom": "Saint-Vaast-en-Cambrésis",
+    "code": "59547",
+    "codeDepartement": "59",
+    "siren": "215905472",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59188"
+    ],
+    "population": 853
+  },
+  {
+    "nom": "Saint-Waast",
+    "code": "59548",
+    "codeDepartement": "59",
+    "siren": "215905480",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 640
+  },
+  {
+    "nom": "Salesches",
+    "code": "59549",
+    "codeDepartement": "59",
+    "siren": "215905498",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59218"
+    ],
+    "population": 327
+  },
+  {
+    "nom": "Salomé",
+    "code": "59550",
+    "codeDepartement": "59",
+    "siren": "215905506",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59496"
+    ],
+    "population": 2945
+  },
+  {
+    "nom": "Saméon",
+    "code": "59551",
+    "codeDepartement": "59",
+    "siren": "215905514",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59310"
+    ],
+    "population": 1707
+  },
+  {
+    "nom": "Sancourt",
+    "code": "59552",
+    "codeDepartement": "59",
+    "siren": "215905522",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59268"
+    ],
+    "population": 196
+  },
+  {
+    "nom": "Santes",
+    "code": "59553",
+    "codeDepartement": "59",
+    "siren": "215905530",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59211"
+    ],
+    "population": 5608
+  },
+  {
+    "nom": "Sars-et-Rosières",
+    "code": "59554",
+    "codeDepartement": "59",
+    "siren": "215905548",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59230"
+    ],
+    "population": 608
+  },
+  {
+    "nom": "Sars-Poteries",
+    "code": "59555",
+    "codeDepartement": "59",
+    "siren": "215905555",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59216"
+    ],
+    "population": 1437
+  },
+  {
+    "nom": "Sassegnies",
+    "code": "59556",
+    "codeDepartement": "59",
+    "siren": "215905563",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59145"
+    ],
+    "population": 259
+  },
+  {
+    "nom": "Saultain",
+    "code": "59557",
+    "codeDepartement": "59",
+    "siren": "215905571",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 2492
+  },
+  {
+    "nom": "Saulzoir",
+    "code": "59558",
+    "codeDepartement": "59",
+    "siren": "215905589",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59227"
+    ],
+    "population": 1688
+  },
+  {
+    "nom": "Sebourg",
+    "code": "59559",
+    "codeDepartement": "59",
+    "siren": "215905597",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59990"
+    ],
+    "population": 1974
+  },
+  {
+    "nom": "Seclin",
+    "code": "59560",
+    "codeDepartement": "59",
+    "siren": "215905605",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59113"
+    ],
+    "population": 12463
+  },
+  {
+    "nom": "Sémeries",
+    "code": "59562",
+    "codeDepartement": "59",
+    "siren": "215905621",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 544
+  },
+  {
+    "nom": "Semousies",
+    "code": "59563",
+    "codeDepartement": "59",
+    "siren": "215905639",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59440"
+    ],
+    "population": 237
+  },
+  {
+    "nom": "La Sentinelle",
+    "code": "59564",
+    "codeDepartement": "59",
+    "siren": "215905647",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59174"
+    ],
+    "population": 3117
+  },
+  {
+    "nom": "Sepmeries",
+    "code": "59565",
+    "codeDepartement": "59",
+    "siren": "215905654",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59269"
+    ],
+    "population": 651
+  },
+  {
+    "nom": "Sequedin",
+    "code": "59566",
+    "codeDepartement": "59",
+    "siren": "215905662",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59320"
+    ],
+    "population": 4775
+  },
+  {
+    "nom": "Séranvillers-Forenville",
+    "code": "59567",
+    "codeDepartement": "59",
+    "siren": "215905670",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 414
+  },
+  {
+    "nom": "Sercus",
+    "code": "59568",
+    "codeDepartement": "59",
+    "siren": "215905688",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59173"
+    ],
+    "population": 476
+  },
+  {
+    "nom": "Sin-le-Noble",
+    "code": "59569",
+    "codeDepartement": "59",
+    "siren": "215905696",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59450"
+    ],
+    "population": 15428
+  },
+  {
+    "nom": "Socx",
+    "code": "59570",
+    "codeDepartement": "59",
+    "siren": "215905704",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 923
+  },
+  {
+    "nom": "Solesmes",
+    "code": "59571",
+    "codeDepartement": "59",
+    "siren": "215905712",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59730"
+    ],
+    "population": 4290
+  },
+  {
+    "nom": "Solre-le-Château",
+    "code": "59572",
+    "codeDepartement": "59",
+    "siren": "215905720",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 1780
+  },
+  {
+    "nom": "Solrinnes",
+    "code": "59573",
+    "codeDepartement": "59",
+    "siren": "215905738",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 139
+  },
+  {
+    "nom": "Somain",
+    "code": "59574",
+    "codeDepartement": "59",
+    "siren": "215905746",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59490"
+    ],
+    "population": 11934
+  },
+  {
+    "nom": "Sommaing",
+    "code": "59575",
+    "codeDepartement": "59",
+    "siren": "215905753",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59213"
+    ],
+    "population": 403
+  },
+  {
+    "nom": "Spycker",
+    "code": "59576",
+    "codeDepartement": "59",
+    "siren": "215905761",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 1806
+  },
+  {
+    "nom": "Staple",
+    "code": "59577",
+    "codeDepartement": "59",
+    "siren": "215905779",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 649
+  },
+  {
+    "nom": "Steenbecque",
+    "code": "59578",
+    "codeDepartement": "59",
+    "siren": "215905787",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59189"
+    ],
+    "population": 1673
+  },
+  {
+    "nom": "Steene",
+    "code": "59579",
+    "codeDepartement": "59",
+    "siren": "215905795",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 1371
+  },
+  {
+    "nom": "Steenvoorde",
+    "code": "59580",
+    "codeDepartement": "59",
+    "siren": "215905803",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59114"
+    ],
+    "population": 4429
+  },
+  {
+    "nom": "Steenwerck",
+    "code": "59581",
+    "codeDepartement": "59",
+    "siren": "215905811",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59181"
+    ],
+    "population": 3672
+  },
+  {
+    "nom": "Strazeele",
+    "code": "59582",
+    "codeDepartement": "59",
+    "siren": "215905829",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59270"
+    ],
+    "population": 948
+  },
+  {
+    "nom": "Taisnières-en-Thiérache",
+    "code": "59583",
+    "codeDepartement": "59",
+    "siren": "215905837",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59550"
+    ],
+    "population": 471
+  },
+  {
+    "nom": "Taisnières-sur-Hon",
+    "code": "59584",
+    "codeDepartement": "59",
+    "siren": "215905845",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59570"
+    ],
+    "population": 957
+  },
+  {
+    "nom": "Templemars",
+    "code": "59585",
+    "codeDepartement": "59",
+    "siren": "215905852",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59175"
+    ],
+    "population": 3465
+  },
+  {
+    "nom": "Templeuve-en-Pévèle",
+    "code": "59586",
+    "codeDepartement": "59",
+    "siren": "215905860",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59242"
+    ],
+    "population": 6332
+  },
+  {
+    "nom": "Terdeghem",
+    "code": "59587",
+    "codeDepartement": "59",
+    "siren": "215905878",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59114"
+    ],
+    "population": 522
+  },
+  {
+    "nom": "Téteghem-Coudekerque-Village",
+    "code": "59588",
+    "codeDepartement": "59",
+    "siren": "200057123",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380",
+      "59229"
+    ],
+    "population": 8285
+  },
+  {
+    "nom": "Thiant",
+    "code": "59589",
+    "codeDepartement": "59",
+    "siren": "215905894",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59224"
+    ],
+    "population": 2999
+  },
+  {
+    "nom": "Thiennes",
+    "code": "59590",
+    "codeDepartement": "59",
+    "siren": "215905902",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59189"
+    ],
+    "population": 912
+  },
+  {
+    "nom": "Thivencelle",
+    "code": "59591",
+    "codeDepartement": "59",
+    "siren": "215905910",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59163"
+    ],
+    "population": 836
+  },
+  {
+    "nom": "Thumeries",
+    "code": "59592",
+    "codeDepartement": "59",
+    "siren": "215905928",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59239"
+    ],
+    "population": 3884
+  },
+  {
+    "nom": "Thun-l'Évêque",
+    "code": "59593",
+    "codeDepartement": "59",
+    "siren": "215905936",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59141"
+    ],
+    "population": 751
+  },
+  {
+    "nom": "Thun-Saint-Amand",
+    "code": "59594",
+    "codeDepartement": "59",
+    "siren": "215905944",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59158"
+    ],
+    "population": 1119
+  },
+  {
+    "nom": "Thun-Saint-Martin",
+    "code": "59595",
+    "codeDepartement": "59",
+    "siren": "215905951",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59141"
+    ],
+    "population": 541
+  },
+  {
+    "nom": "Tilloy-lez-Marchiennes",
+    "code": "59596",
+    "codeDepartement": "59",
+    "siren": "215905969",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 509
+  },
+  {
+    "nom": "Tilloy-lez-Cambrai",
+    "code": "59597",
+    "codeDepartement": "59",
+    "siren": "215905977",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59554"
+    ],
+    "population": 651
+  },
+  {
+    "nom": "Toufflers",
+    "code": "59598",
+    "codeDepartement": "59",
+    "siren": "215905985",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59390"
+    ],
+    "population": 3911
+  },
+  {
+    "nom": "Tourcoing",
+    "code": "59599",
+    "codeDepartement": "59",
+    "siren": "215905993",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59200"
+    ],
+    "population": 98656
+  },
+  {
+    "nom": "Tourmignies",
+    "code": "59600",
+    "codeDepartement": "59",
+    "siren": "215906009",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59551"
+    ],
+    "population": 903
+  },
+  {
+    "nom": "Trélon",
+    "code": "59601",
+    "codeDepartement": "59",
+    "siren": "215906017",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 2771
+  },
+  {
+    "nom": "Tressin",
+    "code": "59602",
+    "codeDepartement": "59",
+    "siren": "215906025",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59152"
+    ],
+    "population": 1405
+  },
+  {
+    "nom": "Trith-Saint-Léger",
+    "code": "59603",
+    "codeDepartement": "59",
+    "siren": "215906033",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59125"
+    ],
+    "population": 6292
+  },
+  {
+    "nom": "Troisvilles",
+    "code": "59604",
+    "codeDepartement": "59",
+    "siren": "215906041",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59980"
+    ],
+    "population": 824
+  },
+  {
+    "nom": "Uxem",
+    "code": "59605",
+    "codeDepartement": "59",
+    "siren": "215906058",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59229"
+    ],
+    "population": 1443
+  },
+  {
+    "nom": "Valenciennes",
+    "code": "59606",
+    "codeDepartement": "59",
+    "siren": "215906066",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59300"
+    ],
+    "population": 43229
+  },
+  {
+    "nom": "Vendegies-au-Bois",
+    "code": "59607",
+    "codeDepartement": "59",
+    "siren": "215906074",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59218"
+    ],
+    "population": 488
+  },
+  {
+    "nom": "Vendegies-sur-Écaillon",
+    "code": "59608",
+    "codeDepartement": "59",
+    "siren": "215906082",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59213"
+    ],
+    "population": 1098
+  },
+  {
+    "nom": "Vendeville",
+    "code": "59609",
+    "codeDepartement": "59",
+    "siren": "215906090",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59175"
+    ],
+    "population": 1564
+  },
+  {
+    "nom": "Verchain-Maugré",
+    "code": "59610",
+    "codeDepartement": "59",
+    "siren": "215906108",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59227"
+    ],
+    "population": 1073
+  },
+  {
+    "nom": "Verlinghem",
+    "code": "59611",
+    "codeDepartement": "59",
+    "siren": "215906116",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59237"
+    ],
+    "population": 2483
+  },
+  {
+    "nom": "Vertain",
+    "code": "59612",
+    "codeDepartement": "59",
+    "siren": "215906124",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59730"
+    ],
+    "population": 510
+  },
+  {
+    "nom": "Vicq",
+    "code": "59613",
+    "codeDepartement": "59",
+    "siren": "215906132",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59970"
+    ],
+    "population": 1464
+  },
+  {
+    "nom": "Viesly",
+    "code": "59614",
+    "codeDepartement": "59",
+    "siren": "215906140",
+    "codeEpci": "245901038",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59271"
+    ],
+    "population": 1414
+  },
+  {
+    "nom": "Vieux-Berquin",
+    "code": "59615",
+    "codeDepartement": "59",
+    "siren": "215906157",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59232"
+    ],
+    "population": 2512
+  },
+  {
+    "nom": "Vieux-Condé",
+    "code": "59616",
+    "codeDepartement": "59",
+    "siren": "215906165",
+    "codeEpci": "245901160",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59690"
+    ],
+    "population": 10465
+  },
+  {
+    "nom": "Vieux-Mesnil",
+    "code": "59617",
+    "codeDepartement": "59",
+    "siren": "215906173",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59138"
+    ],
+    "population": 635
+  },
+  {
+    "nom": "Vieux-Reng",
+    "code": "59618",
+    "codeDepartement": "59",
+    "siren": "215906181",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 881
+  },
+  {
+    "nom": "Villereau",
+    "code": "59619",
+    "codeDepartement": "59",
+    "siren": "215906199",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 1046
+  },
+  {
+    "nom": "Villers-au-Tertre",
+    "code": "59620",
+    "codeDepartement": "59",
+    "siren": "215906207",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59234"
+    ],
+    "population": 661
+  },
+  {
+    "nom": "Villers-en-Cauchies",
+    "code": "59622",
+    "codeDepartement": "59",
+    "siren": "215906223",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59188"
+    ],
+    "population": 1187
+  },
+  {
+    "nom": "Villers-Guislain",
+    "code": "59623",
+    "codeDepartement": "59",
+    "siren": "215906231",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59297"
+    ],
+    "population": 691
+  },
+  {
+    "nom": "Villers-Outréaux",
+    "code": "59624",
+    "codeDepartement": "59",
+    "siren": "215906249",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59142"
+    ],
+    "population": 2142
+  },
+  {
+    "nom": "Villers-Plouich",
+    "code": "59625",
+    "codeDepartement": "59",
+    "siren": "215906256",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59231"
+    ],
+    "population": 396
+  },
+  {
+    "nom": "Villers-Pol",
+    "code": "59626",
+    "codeDepartement": "59",
+    "siren": "215906264",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59530"
+    ],
+    "population": 1287
+  },
+  {
+    "nom": "Villers-Sire-Nicole",
+    "code": "59627",
+    "codeDepartement": "59",
+    "siren": "215906272",
+    "codeEpci": "200043396",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59600"
+    ],
+    "population": 1008
+  },
+  {
+    "nom": "Volckerinckhove",
+    "code": "59628",
+    "codeDepartement": "59",
+    "siren": "215906280",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 563
+  },
+  {
+    "nom": "Vred",
+    "code": "59629",
+    "codeDepartement": "59",
+    "siren": "215906298",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 1338
+  },
+  {
+    "nom": "Wahagnies",
+    "code": "59630",
+    "codeDepartement": "59",
+    "siren": "215906306",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59261"
+    ],
+    "population": 2636
+  },
+  {
+    "nom": "Walincourt-Selvigny",
+    "code": "59631",
+    "codeDepartement": "59",
+    "siren": "215906314",
+    "codeEpci": "200030633",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59127"
+    ],
+    "population": 2153
+  },
+  {
+    "nom": "Wallers",
+    "code": "59632",
+    "codeDepartement": "59",
+    "siren": "215906322",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59135"
+    ],
+    "population": 5610
+  },
+  {
+    "nom": "Wallers-en-Fagne",
+    "code": "59633",
+    "codeDepartement": "59",
+    "siren": "215906330",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59132"
+    ],
+    "population": 282
+  },
+  {
+    "nom": "Wallon-Cappel",
+    "code": "59634",
+    "codeDepartement": "59",
+    "siren": "215906348",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59190"
+    ],
+    "population": 794
+  },
+  {
+    "nom": "Wambaix",
+    "code": "59635",
+    "codeDepartement": "59",
+    "siren": "215906355",
+    "codeEpci": "200068500",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59400"
+    ],
+    "population": 363
+  },
+  {
+    "nom": "Wambrechies",
+    "code": "59636",
+    "codeDepartement": "59",
+    "siren": "215906363",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59118"
+    ],
+    "population": 10608
+  },
+  {
+    "nom": "Wandignies-Hamage",
+    "code": "59637",
+    "codeDepartement": "59",
+    "siren": "215906371",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 1319
+  },
+  {
+    "nom": "Wannehain",
+    "code": "59638",
+    "codeDepartement": "59",
+    "siren": "215906389",
+    "codeEpci": "200041960",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59830"
+    ],
+    "population": 1330
+  },
+  {
+    "nom": "Wargnies-le-Grand",
+    "code": "59639",
+    "codeDepartement": "59",
+    "siren": "215906397",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 1102
+  },
+  {
+    "nom": "Wargnies-le-Petit",
+    "code": "59640",
+    "codeDepartement": "59",
+    "siren": "215906405",
+    "codeEpci": "200043321",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59144"
+    ],
+    "population": 767
+  },
+  {
+    "nom": "Warhem",
+    "code": "59641",
+    "codeDepartement": "59",
+    "siren": "215906413",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 1996
+  },
+  {
+    "nom": "Warlaing",
+    "code": "59642",
+    "codeDepartement": "59",
+    "siren": "215906421",
+    "codeEpci": "245901152",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59870"
+    ],
+    "population": 581
+  },
+  {
+    "nom": "Warneton",
+    "code": "59643",
+    "codeDepartement": "59",
+    "siren": "215906439",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59560"
+    ],
+    "population": 237
+  },
+  {
+    "nom": "Wasnes-au-Bac",
+    "code": "59645",
+    "codeDepartement": "59",
+    "siren": "215906454",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59252"
+    ],
+    "population": 595
+  },
+  {
+    "nom": "Wasquehal",
+    "code": "59646",
+    "codeDepartement": "59",
+    "siren": "215906462",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59290"
+    ],
+    "population": 20860
+  },
+  {
+    "nom": "Watten",
+    "code": "59647",
+    "codeDepartement": "59",
+    "siren": "215906470",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 2599
+  },
+  {
+    "nom": "Wattignies",
+    "code": "59648",
+    "codeDepartement": "59",
+    "siren": "215906488",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59139"
+    ],
+    "population": 15075
+  },
+  {
+    "nom": "Wattignies-la-Victoire",
+    "code": "59649",
+    "codeDepartement": "59",
+    "siren": "215906496",
+    "codeEpci": "200043263",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59680"
+    ],
+    "population": 240
+  },
+  {
+    "nom": "Wattrelos",
+    "code": "59650",
+    "codeDepartement": "59",
+    "siren": "215906504",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59150"
+    ],
+    "population": 40898
+  },
+  {
+    "nom": "Wavrechain-sous-Denain",
+    "code": "59651",
+    "codeDepartement": "59",
+    "siren": "215906512",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59220"
+    ],
+    "population": 1637
+  },
+  {
+    "nom": "Wavrechain-sous-Faulx",
+    "code": "59652",
+    "codeDepartement": "59",
+    "siren": "215906520",
+    "codeEpci": "200042190",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59111"
+    ],
+    "population": 409
+  },
+  {
+    "nom": "Wavrin",
+    "code": "59653",
+    "codeDepartement": "59",
+    "siren": "215906538",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59136"
+    ],
+    "population": 7771
+  },
+  {
+    "nom": "Waziers",
+    "code": "59654",
+    "codeDepartement": "59",
+    "siren": "215906546",
+    "codeEpci": "200044618",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59119"
+    ],
+    "population": 7402
+  },
+  {
+    "nom": "Wemaers-Cappel",
+    "code": "59655",
+    "codeDepartement": "59",
+    "siren": "215906553",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 254
+  },
+  {
+    "nom": "Wervicq-Sud",
+    "code": "59656",
+    "codeDepartement": "59",
+    "siren": "215906561",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59117"
+    ],
+    "population": 5353
+  },
+  {
+    "nom": "West-Cappel",
+    "code": "59657",
+    "codeDepartement": "59",
+    "siren": "215906579",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 637
+  },
+  {
+    "nom": "Wicres",
+    "code": "59658",
+    "codeDepartement": "59",
+    "siren": "215906587",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59134"
+    ],
+    "population": 522
+  },
+  {
+    "nom": "Wignehies",
+    "code": "59659",
+    "codeDepartement": "59",
+    "siren": "215906595",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59212"
+    ],
+    "population": 2855
+  },
+  {
+    "nom": "Willems",
+    "code": "59660",
+    "codeDepartement": "59",
+    "siren": "215906603",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59780"
+    ],
+    "population": 3048
+  },
+  {
+    "nom": "Willies",
+    "code": "59661",
+    "codeDepartement": "59",
+    "siren": "215906611",
+    "codeEpci": "200043404",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59740"
+    ],
+    "population": 136
+  },
+  {
+    "nom": "Winnezeele",
+    "code": "59662",
+    "codeDepartement": "59",
+    "siren": "215906629",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 1313
+  },
+  {
+    "nom": "Wormhout",
+    "code": "59663",
+    "codeDepartement": "59",
+    "siren": "215906637",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 5672
+  },
+  {
+    "nom": "Wulverdinghe",
+    "code": "59664",
+    "codeDepartement": "59",
+    "siren": "215906645",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59143"
+    ],
+    "population": 317
+  },
+  {
+    "nom": "Wylder",
+    "code": "59665",
+    "codeDepartement": "59",
+    "siren": "215906652",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59380"
+    ],
+    "population": 296
+  },
+  {
+    "nom": "Zegerscappel",
+    "code": "59666",
+    "codeDepartement": "59",
+    "siren": "215906660",
+    "codeEpci": "200040954",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59470"
+    ],
+    "population": 1536
+  },
+  {
+    "nom": "Zermezeele",
+    "code": "59667",
+    "codeDepartement": "59",
+    "siren": "215906678",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 228
+  },
+  {
+    "nom": "Zuydcoote",
+    "code": "59668",
+    "codeDepartement": "59",
+    "siren": "215906686",
+    "codeEpci": "245900428",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59123"
+    ],
+    "population": 1601
+  },
+  {
+    "nom": "Zuytpeene",
+    "code": "59669",
+    "codeDepartement": "59",
+    "siren": "215906694",
+    "codeEpci": "200040947",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59670"
+    ],
+    "population": 518
+  },
+  {
+    "nom": "Don",
+    "code": "59670",
+    "codeDepartement": "59",
+    "siren": "215906702",
+    "codeEpci": "200093201",
+    "codeRegion": "32",
+    "codesPostaux": [
+      "59272"
+    ],
+    "population": 1337
+  }
+]
