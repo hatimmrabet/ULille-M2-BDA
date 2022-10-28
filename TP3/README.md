@@ -10,7 +10,7 @@
 
 ## Installer CouchDB
 
-1-  ip $couchdb = 172.28.101.30
+1-  ip $couchdb = 172.28.100.246
 
 3- changer le fichier de config `/opt/couchdb/etc/local.ini`:
 
@@ -18,7 +18,7 @@
     port = 5984
     bind_address = 0.0.0.0
 
-4- la commande `curl 172.28.101.30:5984 | jq` retourne comme resultat :
+4- la commande `curl 172.28.100.246:5984 | jq` retourne comme resultat :
 
 ```json
 {
@@ -41,11 +41,14 @@
 
 ## Manipulation simple
 
-- curl -u cha:admin -X PUT 172.28.101.30:5984/testing
-- curl -u cha:admin -X DELETE 172.28.101.30:5984/testing
-- curl -u cha:admin -X PUT --data '{"pain":["au", "chocolat"]}' 172.28.101.30:5984/testing/chouquette
+- curl -u cha:admin -X PUT 172.28.100.246:5984/testing
+- curl -u cha:admin -X DELETE 172.28.100.246:5984/testing
+- curl -u cha:admin -X PUT --data '{"pain":["au", "chocolat"]}' 172.28.100.246:5984/testing/chouquette
 {"ok":true,"id":"chouquette","rev":"1-ae190de59cdf3ff22b50a3fdee924c24"}
 
 ## Interaction programmatique
 
+le code est dans le fichier [API.py](API.py) et le fichier [launcher.py](launcher.py)
+
+## Recherche
 
