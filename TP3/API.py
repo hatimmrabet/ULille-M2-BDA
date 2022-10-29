@@ -36,12 +36,45 @@ class API:
 
     # methods pour la recherche
     def getLeastPopulatedCIty(self, db, codeRegion):
+        """
+        Get the least populated city in a region
+        """
+        self.createIndexOnField(db, "population")
         response = req.post(self.url+"/"+db+"/_find", data=json.dumps({
             "selector": {
                 "codeRegion": {"$eq": str(codeRegion)}
             },
-            "execution_stats": True,
+            # "use_index": "index_population",
+            "sort": [{"population": "asc"}],
+            "limit": 1,
+            "execution_stats": True
+        }), auth=(self.username, self.password), headers={"Content-Type": "application/json"})
+        return response
+
+    def getMostPopulatedCityStartingWith(self, db, name):
+        """
+        Get the most populated city starting with name
+        """
+        response = req.post(self.url+"/"+db+"/_find", data=json.dumps({
+            "selector": {
+                "nom": {"$regex": "^"+name}
+            },
             "sort": [{"population": "desc"}],
-            "limit": 1
+            "limit": 1,
+            "execution_stats": True
+        }), auth=(self.username, self.password), headers={"Content-Type": "application/json"})
+        return response
+        
+
+    def createIndexOnField(self, db, field):
+        """
+        Créer un index sur le champ field
+        """
+        response = req.post(self.url+"/"+db+"/_index", data=json.dumps({
+            "index": {
+                "fields": [field]
+            },
+            "name": "index_"+field,
+            "type": "json"
         }), auth=(self.username, self.password), headers={"Content-Type": "application/json"})
         return response

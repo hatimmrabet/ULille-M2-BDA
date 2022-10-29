@@ -16,11 +16,13 @@ def launchMult(filename, db):
     for i in range(0, len(content), 1000):
         monAPI.create_doc_mult(db, {"docs": content[i:i+1000]})
 
-def myPostman():
-    monAPI = API()
-    print(monAPI.getLeastPopulatedCIty("france", 84).text) 
 
 if __name__ == "__main__":
     # launchSimple("nord.json", "nord")
     # launchMult("france.json", "france")
-    myPostman()
+    monAPI = API()
+    # print("\ngetLeastPopulatedCIty\n")
+    # print(monAPI.getLeastPopulatedCIty("france", 84).text)
+    # print("\ngetMostPopulatedCityStartingWith\n")
+    # monAPI.createIndexOnField("france", "nom")
+    print(monAPI.getMostPopulatedCityStartingWith("france", "Mont").text)
