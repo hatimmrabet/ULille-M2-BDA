@@ -1,0 +1,865 @@
+# This file was generated based on ".graphqlconfig". Do not edit manually.
+
+schema {
+    query: query_root
+    mutation: mutation_root
+    subscription: subscription_root
+}
+
+"whether this query should be cached (Hasura Cloud only)"
+directive @cached(
+    "refresh the cache entry"
+    refresh: Boolean! = false,
+    "measured in seconds"
+    ttl: Int! = 60
+) on QUERY
+
+"columns and relationships of \"kpi_dashboard\""
+type kpi_dashboard {
+    workflow_elapsed_time: Int!
+    workflow_finished: date!
+    workflow_id: Int!
+    workflow_name: String!
+    workflow_started: date!
+    workflow_status: String!
+}
+
+"aggregated selection of \"kpi_dashboard\""
+type kpi_dashboard_aggregate {
+    aggregate: kpi_dashboard_aggregate_fields
+    nodes: [kpi_dashboard!]!
+}
+
+"aggregate fields of \"kpi_dashboard\""
+type kpi_dashboard_aggregate_fields {
+    avg: kpi_dashboard_avg_fields
+    count(columns: [kpi_dashboard_select_column!], distinct: Boolean): Int!
+    max: kpi_dashboard_max_fields
+    min: kpi_dashboard_min_fields
+    stddev: kpi_dashboard_stddev_fields
+    stddev_pop: kpi_dashboard_stddev_pop_fields
+    stddev_samp: kpi_dashboard_stddev_samp_fields
+    sum: kpi_dashboard_sum_fields
+    var_pop: kpi_dashboard_var_pop_fields
+    var_samp: kpi_dashboard_var_samp_fields
+    variance: kpi_dashboard_variance_fields
+}
+
+"aggregate avg on columns"
+type kpi_dashboard_avg_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"aggregate max on columns"
+type kpi_dashboard_max_fields {
+    workflow_elapsed_time: Int
+    workflow_finished: date
+    workflow_id: Int
+    workflow_name: String
+    workflow_started: date
+    workflow_status: String
+}
+
+"aggregate min on columns"
+type kpi_dashboard_min_fields {
+    workflow_elapsed_time: Int
+    workflow_finished: date
+    workflow_id: Int
+    workflow_name: String
+    workflow_started: date
+    workflow_status: String
+}
+
+"response of any mutation on the table \"kpi_dashboard\""
+type kpi_dashboard_mutation_response {
+    "number of rows affected by the mutation"
+    affected_rows: Int!
+    "data from the rows affected by the mutation"
+    returning: [kpi_dashboard!]!
+}
+
+"aggregate stddev on columns"
+type kpi_dashboard_stddev_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"aggregate stddev_pop on columns"
+type kpi_dashboard_stddev_pop_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"aggregate stddev_samp on columns"
+type kpi_dashboard_stddev_samp_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"aggregate sum on columns"
+type kpi_dashboard_sum_fields {
+    workflow_elapsed_time: Int
+    workflow_id: Int
+}
+
+"aggregate var_pop on columns"
+type kpi_dashboard_var_pop_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"aggregate var_samp on columns"
+type kpi_dashboard_var_samp_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"aggregate variance on columns"
+type kpi_dashboard_variance_fields {
+    workflow_elapsed_time: Float
+    workflow_id: Float
+}
+
+"columns and relationships of \"kpi_job\""
+type kpi_job {
+    centreon_probe_output: String!
+    fqdn: String!
+    instance_gmt: String!
+    instance_snow: String!
+    job_elapsed: date!
+    job_finished: date!
+    job_id: Int!
+    job_name: String!
+    job_started: date!
+    output_link: String!
+    probe_name: String!
+    probe_state_type: String!
+    type_error: String!
+}
+
+"aggregated selection of \"kpi_job\""
+type kpi_job_aggregate {
+    aggregate: kpi_job_aggregate_fields
+    nodes: [kpi_job!]!
+}
+
+"aggregate fields of \"kpi_job\""
+type kpi_job_aggregate_fields {
+    avg: kpi_job_avg_fields
+    count(columns: [kpi_job_select_column!], distinct: Boolean): Int!
+    max: kpi_job_max_fields
+    min: kpi_job_min_fields
+    stddev: kpi_job_stddev_fields
+    stddev_pop: kpi_job_stddev_pop_fields
+    stddev_samp: kpi_job_stddev_samp_fields
+    sum: kpi_job_sum_fields
+    var_pop: kpi_job_var_pop_fields
+    var_samp: kpi_job_var_samp_fields
+    variance: kpi_job_variance_fields
+}
+
+"aggregate avg on columns"
+type kpi_job_avg_fields {
+    job_id: Float
+}
+
+"aggregate max on columns"
+type kpi_job_max_fields {
+    centreon_probe_output: String
+    fqdn: String
+    instance_gmt: String
+    instance_snow: String
+    job_elapsed: date
+    job_finished: date
+    job_id: Int
+    job_name: String
+    job_started: date
+    output_link: String
+    probe_name: String
+    probe_state_type: String
+    type_error: String
+}
+
+"aggregate min on columns"
+type kpi_job_min_fields {
+    centreon_probe_output: String
+    fqdn: String
+    instance_gmt: String
+    instance_snow: String
+    job_elapsed: date
+    job_finished: date
+    job_id: Int
+    job_name: String
+    job_started: date
+    output_link: String
+    probe_name: String
+    probe_state_type: String
+    type_error: String
+}
+
+"response of any mutation on the table \"kpi_job\""
+type kpi_job_mutation_response {
+    "number of rows affected by the mutation"
+    affected_rows: Int!
+    "data from the rows affected by the mutation"
+    returning: [kpi_job!]!
+}
+
+"aggregate stddev on columns"
+type kpi_job_stddev_fields {
+    job_id: Float
+}
+
+"aggregate stddev_pop on columns"
+type kpi_job_stddev_pop_fields {
+    job_id: Float
+}
+
+"aggregate stddev_samp on columns"
+type kpi_job_stddev_samp_fields {
+    job_id: Float
+}
+
+"aggregate sum on columns"
+type kpi_job_sum_fields {
+    job_id: Int
+}
+
+"aggregate var_pop on columns"
+type kpi_job_var_pop_fields {
+    job_id: Float
+}
+
+"aggregate var_samp on columns"
+type kpi_job_var_samp_fields {
+    job_id: Float
+}
+
+"aggregate variance on columns"
+type kpi_job_variance_fields {
+    job_id: Float
+}
+
+"mutation root"
+type mutation_root {
+    "delete data from the table: \"kpi_dashboard\""
+    delete_kpi_dashboard(
+        "filter the rows which have to be deleted"
+        where: kpi_dashboard_bool_exp!
+    ): kpi_dashboard_mutation_response
+    "delete single row from the table: \"kpi_dashboard\""
+    delete_kpi_dashboard_by_pk(workflow_id: Int!): kpi_dashboard
+    "delete data from the table: \"kpi_job\""
+    delete_kpi_job(
+        "filter the rows which have to be deleted"
+        where: kpi_job_bool_exp!
+    ): kpi_job_mutation_response
+    "delete single row from the table: \"kpi_job\""
+    delete_kpi_job_by_pk(job_id: Int!): kpi_job
+    "insert data into the table: \"kpi_dashboard\""
+    insert_kpi_dashboard(
+        "the rows to be inserted"
+        objects: [kpi_dashboard_insert_input!]!,
+        "upsert condition"
+        on_conflict: kpi_dashboard_on_conflict
+    ): kpi_dashboard_mutation_response
+    "insert a single row into the table: \"kpi_dashboard\""
+    insert_kpi_dashboard_one(
+        "the row to be inserted"
+        object: kpi_dashboard_insert_input!,
+        "upsert condition"
+        on_conflict: kpi_dashboard_on_conflict
+    ): kpi_dashboard
+    "insert data into the table: \"kpi_job\""
+    insert_kpi_job(
+        "the rows to be inserted"
+        objects: [kpi_job_insert_input!]!,
+        "upsert condition"
+        on_conflict: kpi_job_on_conflict
+    ): kpi_job_mutation_response
+    "insert a single row into the table: \"kpi_job\""
+    insert_kpi_job_one(
+        "the row to be inserted"
+        object: kpi_job_insert_input!,
+        "upsert condition"
+        on_conflict: kpi_job_on_conflict
+    ): kpi_job
+    "update data of the table: \"kpi_dashboard\""
+    update_kpi_dashboard(
+        "increments the numeric columns with given value of the filtered values"
+        _inc: kpi_dashboard_inc_input,
+        "sets the columns of the filtered rows to the given values"
+        _set: kpi_dashboard_set_input,
+        "filter the rows which have to be updated"
+        where: kpi_dashboard_bool_exp!
+    ): kpi_dashboard_mutation_response
+    "update single row of the table: \"kpi_dashboard\""
+    update_kpi_dashboard_by_pk(
+        "increments the numeric columns with given value of the filtered values"
+        _inc: kpi_dashboard_inc_input,
+        "sets the columns of the filtered rows to the given values"
+        _set: kpi_dashboard_set_input,
+        pk_columns: kpi_dashboard_pk_columns_input!
+    ): kpi_dashboard
+    "update multiples rows of table: \"kpi_dashboard\""
+    update_kpi_dashboard_many(
+        "updates to execute, in order"
+        updates: [kpi_dashboard_updates!]!
+    ): [kpi_dashboard_mutation_response]
+    "update data of the table: \"kpi_job\""
+    update_kpi_job(
+        "increments the numeric columns with given value of the filtered values"
+        _inc: kpi_job_inc_input,
+        "sets the columns of the filtered rows to the given values"
+        _set: kpi_job_set_input,
+        "filter the rows which have to be updated"
+        where: kpi_job_bool_exp!
+    ): kpi_job_mutation_response
+    "update single row of the table: \"kpi_job\""
+    update_kpi_job_by_pk(
+        "increments the numeric columns with given value of the filtered values"
+        _inc: kpi_job_inc_input,
+        "sets the columns of the filtered rows to the given values"
+        _set: kpi_job_set_input,
+        pk_columns: kpi_job_pk_columns_input!
+    ): kpi_job
+    "update multiples rows of table: \"kpi_job\""
+    update_kpi_job_many(
+        "updates to execute, in order"
+        updates: [kpi_job_updates!]!
+    ): [kpi_job_mutation_response]
+}
+
+type query_root {
+    "fetch data from the table: \"kpi_dashboard\""
+    kpi_dashboard(
+        "distinct select on columns"
+        distinct_on: [kpi_dashboard_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_dashboard_order_by!],
+        "filter the rows returned"
+        where: kpi_dashboard_bool_exp
+    ): [kpi_dashboard!]!
+    "fetch aggregated fields from the table: \"kpi_dashboard\""
+    kpi_dashboard_aggregate(
+        "distinct select on columns"
+        distinct_on: [kpi_dashboard_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_dashboard_order_by!],
+        "filter the rows returned"
+        where: kpi_dashboard_bool_exp
+    ): kpi_dashboard_aggregate!
+    "fetch data from the table: \"kpi_dashboard\" using primary key columns"
+    kpi_dashboard_by_pk(workflow_id: Int!): kpi_dashboard
+    "fetch data from the table: \"kpi_job\""
+    kpi_job(
+        "distinct select on columns"
+        distinct_on: [kpi_job_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_job_order_by!],
+        "filter the rows returned"
+        where: kpi_job_bool_exp
+    ): [kpi_job!]!
+    "fetch aggregated fields from the table: \"kpi_job\""
+    kpi_job_aggregate(
+        "distinct select on columns"
+        distinct_on: [kpi_job_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_job_order_by!],
+        "filter the rows returned"
+        where: kpi_job_bool_exp
+    ): kpi_job_aggregate!
+    "fetch data from the table: \"kpi_job\" using primary key columns"
+    kpi_job_by_pk(job_id: Int!): kpi_job
+}
+
+type subscription_root {
+    "fetch data from the table: \"kpi_dashboard\""
+    kpi_dashboard(
+        "distinct select on columns"
+        distinct_on: [kpi_dashboard_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_dashboard_order_by!],
+        "filter the rows returned"
+        where: kpi_dashboard_bool_exp
+    ): [kpi_dashboard!]!
+    "fetch aggregated fields from the table: \"kpi_dashboard\""
+    kpi_dashboard_aggregate(
+        "distinct select on columns"
+        distinct_on: [kpi_dashboard_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_dashboard_order_by!],
+        "filter the rows returned"
+        where: kpi_dashboard_bool_exp
+    ): kpi_dashboard_aggregate!
+    "fetch data from the table: \"kpi_dashboard\" using primary key columns"
+    kpi_dashboard_by_pk(workflow_id: Int!): kpi_dashboard
+    "fetch data from the table in a streaming manner : \"kpi_dashboard\""
+    kpi_dashboard_stream(
+        "maximum number of rows returned in a single batch"
+        batch_size: Int!,
+        "cursor to stream the results returned by the query"
+        cursor: [kpi_dashboard_stream_cursor_input]!,
+        "filter the rows returned"
+        where: kpi_dashboard_bool_exp
+    ): [kpi_dashboard!]!
+    "fetch data from the table: \"kpi_job\""
+    kpi_job(
+        "distinct select on columns"
+        distinct_on: [kpi_job_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_job_order_by!],
+        "filter the rows returned"
+        where: kpi_job_bool_exp
+    ): [kpi_job!]!
+    "fetch aggregated fields from the table: \"kpi_job\""
+    kpi_job_aggregate(
+        "distinct select on columns"
+        distinct_on: [kpi_job_select_column!],
+        "limit the number of rows returned"
+        limit: Int,
+        "skip the first n rows. Use only with order_by"
+        offset: Int,
+        "sort the rows by one or more columns"
+        order_by: [kpi_job_order_by!],
+        "filter the rows returned"
+        where: kpi_job_bool_exp
+    ): kpi_job_aggregate!
+    "fetch data from the table: \"kpi_job\" using primary key columns"
+    kpi_job_by_pk(job_id: Int!): kpi_job
+    "fetch data from the table in a streaming manner : \"kpi_job\""
+    kpi_job_stream(
+        "maximum number of rows returned in a single batch"
+        batch_size: Int!,
+        "cursor to stream the results returned by the query"
+        cursor: [kpi_job_stream_cursor_input]!,
+        "filter the rows returned"
+        where: kpi_job_bool_exp
+    ): [kpi_job!]!
+}
+
+"ordering argument of a cursor"
+enum cursor_ordering {
+    "ascending ordering of the cursor"
+    ASC
+    "descending ordering of the cursor"
+    DESC
+}
+
+"unique or primary key constraints on table \"kpi_dashboard\""
+enum kpi_dashboard_constraint {
+    "unique or primary key constraint on columns \"workflow_id\""
+    kpi_dashboard_pkey
+}
+
+"select columns of table \"kpi_dashboard\""
+enum kpi_dashboard_select_column {
+    "column name"
+    workflow_elapsed_time
+    "column name"
+    workflow_finished
+    "column name"
+    workflow_id
+    "column name"
+    workflow_name
+    "column name"
+    workflow_started
+    "column name"
+    workflow_status
+}
+
+"update columns of table \"kpi_dashboard\""
+enum kpi_dashboard_update_column {
+    "column name"
+    workflow_elapsed_time
+    "column name"
+    workflow_finished
+    "column name"
+    workflow_id
+    "column name"
+    workflow_name
+    "column name"
+    workflow_started
+    "column name"
+    workflow_status
+}
+
+"unique or primary key constraints on table \"kpi_job\""
+enum kpi_job_constraint {
+    "unique or primary key constraint on columns \"job_id\""
+    kpi_job_pkey
+}
+
+"select columns of table \"kpi_job\""
+enum kpi_job_select_column {
+    "column name"
+    centreon_probe_output
+    "column name"
+    fqdn
+    "column name"
+    instance_gmt
+    "column name"
+    instance_snow
+    "column name"
+    job_elapsed
+    "column name"
+    job_finished
+    "column name"
+    job_id
+    "column name"
+    job_name
+    "column name"
+    job_started
+    "column name"
+    output_link
+    "column name"
+    probe_name
+    "column name"
+    probe_state_type
+    "column name"
+    type_error
+}
+
+"update columns of table \"kpi_job\""
+enum kpi_job_update_column {
+    "column name"
+    centreon_probe_output
+    "column name"
+    fqdn
+    "column name"
+    instance_gmt
+    "column name"
+    instance_snow
+    "column name"
+    job_elapsed
+    "column name"
+    job_finished
+    "column name"
+    job_id
+    "column name"
+    job_name
+    "column name"
+    job_started
+    "column name"
+    output_link
+    "column name"
+    probe_name
+    "column name"
+    probe_state_type
+    "column name"
+    type_error
+}
+
+"column ordering options"
+enum order_by {
+    "in ascending order, nulls last"
+    asc
+    "in ascending order, nulls first"
+    asc_nulls_first
+    "in ascending order, nulls last"
+    asc_nulls_last
+    "in descending order, nulls first"
+    desc
+    "in descending order, nulls first"
+    desc_nulls_first
+    "in descending order, nulls last"
+    desc_nulls_last
+}
+
+scalar date
+
+"Boolean expression to compare columns of type \"Int\". All fields are combined with logical 'AND'."
+input Int_comparison_exp {
+    _eq: Int
+    _gt: Int
+    _gte: Int
+    _in: [Int!]
+    _is_null: Boolean
+    _lt: Int
+    _lte: Int
+    _neq: Int
+    _nin: [Int!]
+}
+
+"Boolean expression to compare columns of type \"String\". All fields are combined with logical 'AND'."
+input String_comparison_exp {
+    _eq: String
+    _gt: String
+    _gte: String
+    "does the column match the given case-insensitive pattern"
+    _ilike: String
+    _in: [String!]
+    "does the column match the given POSIX regular expression, case insensitive"
+    _iregex: String
+    _is_null: Boolean
+    "does the column match the given pattern"
+    _like: String
+    _lt: String
+    _lte: String
+    _neq: String
+    "does the column NOT match the given case-insensitive pattern"
+    _nilike: String
+    _nin: [String!]
+    "does the column NOT match the given POSIX regular expression, case insensitive"
+    _niregex: String
+    "does the column NOT match the given pattern"
+    _nlike: String
+    "does the column NOT match the given POSIX regular expression, case sensitive"
+    _nregex: String
+    "does the column NOT match the given SQL regular expression"
+    _nsimilar: String
+    "does the column match the given POSIX regular expression, case sensitive"
+    _regex: String
+    "does the column match the given SQL regular expression"
+    _similar: String
+}
+
+"Boolean expression to compare columns of type \"date\". All fields are combined with logical 'AND'."
+input date_comparison_exp {
+    _eq: date
+    _gt: date
+    _gte: date
+    _in: [date!]
+    _is_null: Boolean
+    _lt: date
+    _lte: date
+    _neq: date
+    _nin: [date!]
+}
+
+"Boolean expression to filter rows from the table \"kpi_dashboard\". All fields are combined with a logical 'AND'."
+input kpi_dashboard_bool_exp {
+    _and: [kpi_dashboard_bool_exp!]
+    _not: kpi_dashboard_bool_exp
+    _or: [kpi_dashboard_bool_exp!]
+    workflow_elapsed_time: Int_comparison_exp
+    workflow_finished: date_comparison_exp
+    workflow_id: Int_comparison_exp
+    workflow_name: String_comparison_exp
+    workflow_started: date_comparison_exp
+    workflow_status: String_comparison_exp
+}
+
+"input type for incrementing numeric columns in table \"kpi_dashboard\""
+input kpi_dashboard_inc_input {
+    workflow_elapsed_time: Int
+    workflow_id: Int
+}
+
+"input type for inserting data into table \"kpi_dashboard\""
+input kpi_dashboard_insert_input {
+    workflow_elapsed_time: Int
+    workflow_finished: date
+    workflow_id: Int
+    workflow_name: String
+    workflow_started: date
+    workflow_status: String
+}
+
+"on_conflict condition type for table \"kpi_dashboard\""
+input kpi_dashboard_on_conflict {
+    constraint: kpi_dashboard_constraint!
+    update_columns: [kpi_dashboard_update_column!]! = []
+    where: kpi_dashboard_bool_exp
+}
+
+"Ordering options when selecting data from \"kpi_dashboard\"."
+input kpi_dashboard_order_by {
+    workflow_elapsed_time: order_by
+    workflow_finished: order_by
+    workflow_id: order_by
+    workflow_name: order_by
+    workflow_started: order_by
+    workflow_status: order_by
+}
+
+"primary key columns input for table: kpi_dashboard"
+input kpi_dashboard_pk_columns_input {
+    workflow_id: Int!
+}
+
+"input type for updating data in table \"kpi_dashboard\""
+input kpi_dashboard_set_input {
+    workflow_elapsed_time: Int
+    workflow_finished: date
+    workflow_id: Int
+    workflow_name: String
+    workflow_started: date
+    workflow_status: String
+}
+
+"Streaming cursor of the table \"kpi_dashboard\""
+input kpi_dashboard_stream_cursor_input {
+    "Stream column input with initial value"
+    initial_value: kpi_dashboard_stream_cursor_value_input!
+    "cursor ordering"
+    ordering: cursor_ordering
+}
+
+"Initial value of the column from where the streaming should start"
+input kpi_dashboard_stream_cursor_value_input {
+    workflow_elapsed_time: Int
+    workflow_finished: date
+    workflow_id: Int
+    workflow_name: String
+    workflow_started: date
+    workflow_status: String
+}
+
+input kpi_dashboard_updates {
+    "increments the numeric columns with given value of the filtered values"
+    _inc: kpi_dashboard_inc_input
+    "sets the columns of the filtered rows to the given values"
+    _set: kpi_dashboard_set_input
+    where: kpi_dashboard_bool_exp!
+}
+
+"Boolean expression to filter rows from the table \"kpi_job\". All fields are combined with a logical 'AND'."
+input kpi_job_bool_exp {
+    _and: [kpi_job_bool_exp!]
+    _not: kpi_job_bool_exp
+    _or: [kpi_job_bool_exp!]
+    centreon_probe_output: String_comparison_exp
+    fqdn: String_comparison_exp
+    instance_gmt: String_comparison_exp
+    instance_snow: String_comparison_exp
+    job_elapsed: date_comparison_exp
+    job_finished: date_comparison_exp
+    job_id: Int_comparison_exp
+    job_name: String_comparison_exp
+    job_started: date_comparison_exp
+    output_link: String_comparison_exp
+    probe_name: String_comparison_exp
+    probe_state_type: String_comparison_exp
+    type_error: String_comparison_exp
+}
+
+"input type for incrementing numeric columns in table \"kpi_job\""
+input kpi_job_inc_input {
+    job_id: Int
+}
+
+"input type for inserting data into table \"kpi_job\""
+input kpi_job_insert_input {
+    centreon_probe_output: String
+    fqdn: String
+    instance_gmt: String
+    instance_snow: String
+    job_elapsed: date
+    job_finished: date
+    job_id: Int
+    job_name: String
+    job_started: date
+    output_link: String
+    probe_name: String
+    probe_state_type: String
+    type_error: String
+}
+
+"on_conflict condition type for table \"kpi_job\""
+input kpi_job_on_conflict {
+    constraint: kpi_job_constraint!
+    update_columns: [kpi_job_update_column!]! = []
+    where: kpi_job_bool_exp
+}
+
+"Ordering options when selecting data from \"kpi_job\"."
+input kpi_job_order_by {
+    centreon_probe_output: order_by
+    fqdn: order_by
+    instance_gmt: order_by
+    instance_snow: order_by
+    job_elapsed: order_by
+    job_finished: order_by
+    job_id: order_by
+    job_name: order_by
+    job_started: order_by
+    output_link: order_by
+    probe_name: order_by
+    probe_state_type: order_by
+    type_error: order_by
+}
+
+"primary key columns input for table: kpi_job"
+input kpi_job_pk_columns_input {
+    job_id: Int!
+}
+
+"input type for updating data in table \"kpi_job\""
+input kpi_job_set_input {
+    centreon_probe_output: String
+    fqdn: String
+    instance_gmt: String
+    instance_snow: String
+    job_elapsed: date
+    job_finished: date
+    job_id: Int
+    job_name: String
+    job_started: date
+    output_link: String
+    probe_name: String
+    probe_state_type: String
+    type_error: String
+}
+
+"Streaming cursor of the table \"kpi_job\""
+input kpi_job_stream_cursor_input {
+    "Stream column input with initial value"
+    initial_value: kpi_job_stream_cursor_value_input!
+    "cursor ordering"
+    ordering: cursor_ordering
+}
+
+"Initial value of the column from where the streaming should start"
+input kpi_job_stream_cursor_value_input {
+    centreon_probe_output: String
+    fqdn: String
+    instance_gmt: String
+    instance_snow: String
+    job_elapsed: date
+    job_finished: date
+    job_id: Int
+    job_name: String
+    job_started: date
+    output_link: String
+    probe_name: String
+    probe_state_type: String
+    type_error: String
+}
+
+input kpi_job_updates {
+    "increments the numeric columns with given value of the filtered values"
+    _inc: kpi_job_inc_input
+    "sets the columns of the filtered rows to the given values"
+    _set: kpi_job_set_input
+    where: kpi_job_bool_exp!
+}

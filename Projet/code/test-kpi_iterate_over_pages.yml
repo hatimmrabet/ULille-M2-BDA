@@ -1,0 +1,17 @@
+---
+- name: iterate over pages
+  uri:
+    url: '{{ api }}'
+    method: GET
+    body_format: json
+    headers:
+      Authorization: 'Bearer {{ awx_token }}'
+  register: jobs_info
+ 
+- name: 'Create my list'
+  include_tasks: test-kpi_iterate_over_jobs.yml
+  loop: "{{ jobs_info.json.results }}"
+  loop_control:
+    loop_var: inner_item
+
+  

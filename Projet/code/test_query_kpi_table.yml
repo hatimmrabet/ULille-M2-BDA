@@ -1,0 +1,14 @@
+---
+- hosts: localhost
+  gather_facts: no
+  tasks:
+    - name: Query to automation db
+      postgresql_query:
+        db: '{{pgha_db|default("default")}}'
+        login_user: '{{pgha_user|default("default")}}'
+        login_password: '{{pgha_password|default("default")}}'
+        port: '{{pgha_port|default(5432)}}'
+        query: '{{pgha_freeform_query | default(pgha_query.pgha_action)}}'
+        login_host: http://test.com //nom factice
+      become: yes
+      register: result_postgres # register the result

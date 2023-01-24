@@ -1,0 +1,62 @@
+---
+- name: 'focus only on job and work-inetum-adeo'
+  block:
+  - name: Only when stdout is defined
+    block:
+    - name: save stdout
+      uri:
+        url: '{{ awx_host + inner_item.related.stdout}}?format=json'
+        method: GET
+        body_format: json
+        headers:
+          Authorization: 'Bearer {{ awx_token }}'
+      no_log: false
+      register: job_stdout
+
+    #- name: print stdoutjob
+    #  debug:
+    #    var: job_stdout.json.content
+
+    - name: copy var content
+      copy:
+        content: "{{job_stdout.json.content}}"
+        dest: "/tmp/job_kpi_output.txt"
+      delegate_to: "tgoipudtmec61.int.adeo.com"
+      no_log: true
+
+    - name: run python script
+      script: test_type_error_search.py /tmp/job_kpi_output.txt
+      args:
+        executable: python3
+      register: python_output
+      delegate_to: "tgoipudtmec61.int.adeo.com"
+      no_log: true
+    when: inner_item.related.stdout is defined 
+
+
+  #- name: output python script
+  #  debug:
+  #    var: python_output
+    
+  - name: conditionnal block
+    block:
+    - name: Get jobs informations
+      set_fact:
+        csv_tmp: >
+          {{ inner_item.id | default('') }};{{ inner_item.name | default('') }};{{ inner_item.started | default('') }};{{inner_item.finished | default('')}};{{inner_item.elapsed | default('')}};{{ final_Jobfqdn.INSTANCE_SNOW | default('') }};{{final_Jobfqdn.INSTANCE_GMT | default('') }};{{final_Jobfqdn.PROBE_STATE_TYPE | default('') }};{{ final_Jobfqdn.fqdn_central_awa | default(final_Jobfqdn.HOST_FQDN) | default('') }};{{ final_Jobfqdn.PROBE_NAME | default(final_Jobfqdn.centreon_probe) | default('') }};{{final_Jobfqdn.centreon_probe_output | default('') }};{{python_output.stdout_lines[1] | default('') }};{{(awx_host + (inner_item.related.stdout|default('NO STDOUT'))) | default('')}}
+
+    - name: CSV - Write information into .csv file
+      lineinfile:
+        insertafter: EOF
+        dest: "{{path_file}}"
+        line: '{{csv_tmp}}'
+    delegate_to: "tgoipudtmec61.int.adeo.com"
+    when: final_Jobfqdn | type_debug =='dict'
+    no_log: true
+    
+  vars:
+    Jobfqdn: '{{ inner_item.extra_vars | regex_replace("\\","") }}'
+    final_Jobfqdn: "{{ Jobfqdn | regex_replace('\"centreon\": {.*},','')}}"
+  when: (inner_item.type == "job") or (inner_item.name | regex_search('^work-inetum-adeo'))
+
+ 

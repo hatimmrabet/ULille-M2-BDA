@@ -1,0 +1,76 @@
+---
+- hosts: localhost
+  gather_facts: false
+  environment:
+    TZ: 'Europe/Paris'
+  vars:
+    AWX_API_WORKFLOWS: '/api/v2/workflow_jobs/'
+    awx_host: 'https://awx-remediation.factory.adeo.cloud'
+    awx_token: 'O0QiINIO5ICKeiWKaWQz0DohLtwIkG'
+    api: "{{ awx_host +  AWX_API_WORKFLOWS }}?finished__lt={{ date_end|json_query('stdout') }}&created__gte={{ date_start|json_query('stdout') }}&page_size={{ page_size }}&page={{ item }}&name__startswith=work"
+    api_v2: "{{ awx_host +  AWX_API_WORKFLOWS }}?finished__lt={{ date_end|json_query('stdout') }}&created__gte={{ date_start|json_query('stdout') }}&page_size=1&page=1&name__startswith=work"    
+    #element_number: 1
+    element_number: "{{ ((first_call.json.count / 50) | round(0,'ceil')) | int }}"
+    path_file: "/tmp/kpi_report_workflows_{{ date_start|json_query('stdout')  }}.csv"
+    
+   
+  tasks:
+    - name: get yesterday date and date + 1
+      block:
+      - name: get time stampfrom the system
+        shell: "date +%Y-%m-%d -d '-1 day'"
+        register: date_start
+
+
+
+    - name: get time +1 stampfrom the system
+      shell: "date +%Y-%m-%d"
+      register: date_end
+        
+    - name: set path file
+      set_stats:
+        data:
+          path_file: "/tmp/kpi_report_workflows_{{ date_start|json_query('stdout')  }}.csv"
+        
+    - name: todays date
+      set_stats:
+        data:       
+          todays_date: "{{ date_start|json_query('stdout') }}"
+      
+    - name: 'API CALL: get element number'
+      uri:
+        url: '{{ api_v2 }}'
+        method: GET
+        body_format: json
+        headers:
+          Authorization: 'Bearer {{ awx_token }}'
+      register: first_call
+    
+    - name: manage remotely files on host
+      block:
+      - name: delete the file if it exists
+        file:
+          path: "{{ path_file }}"
+          state: absent
+
+
+
+      - name: CSV - Create file and set the header
+        lineinfile:
+          dest: "{{path_file}}"
+          line:
+            workflow_id;workflow_name;workflow_started;workflow_finished;workflow_elapsed_time;workflow_status
+          create: yes
+          state: present
+      delegate_to: "tgoipudtmec61.int.adeo.com"
+  
+    - name: 'Launch iterate over pages task'
+      include_tasks: test-kpi_workflows_iterate_over_pages.yml
+      with_sequence: start=1 end="{{ element_number }}"
+    
+    - name: CSV - Blank lines removal
+      lineinfile:
+        path: "{{path_file}}"
+        state: absent
+        regex: '^\s*$'
+      delegate_to: "tgoipudtmec61.int.adeo.com"
